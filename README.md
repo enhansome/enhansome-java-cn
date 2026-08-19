@@ -1,6 +1,6 @@
 # Awesome Java资源大全中文版 with stars
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,783 | 🐛 10 | 📅 2026-08-17 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 [ImportNew](http://www.importnew.com/14429.html)。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,787 | 🐛 2 | 📅 2026-08-19 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 [ImportNew](http://www.importnew.com/14429.html)。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
@@ -166,9 +166,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *测量代码指标和质量工具。*
 
-* [Checkstyle](http://www.importnew.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle) ⭐ 8,990 | 🐛 827 | 🌐 Java | 📅 2026-08-19
-* [Error Prone](http://www.importnew.com/error-prone/)：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone) ⭐ 7,222 | 🐛 517 | 🌐 Java | 📅 2026-08-19
-* [PMD](http://www.importnew.com/pmd/)：对源代码分析查找不良的编程习惯。[官网](https://github.com/pmd/pmd) ⭐ 5,468 | 🐛 593 | 🌐 Java | 📅 2026-08-19
+* [Checkstyle](http://www.importnew.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle) ⭐ 8,992 | 🐛 827 | 🌐 Java | 📅 2026-08-19
+* [Error Prone](http://www.importnew.com/error-prone/)：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone) ⭐ 7,223 | 🐛 517 | 🌐 Java | 📅 2026-08-19
+* [PMD](http://www.importnew.com/pmd/)：对源代码分析查找不良的编程习惯。[官网](https://github.com/pmd/pmd) ⭐ 5,468 | 🐛 587 | 🌐 Java | 📅 2026-08-19
 * FindBugs：通过字节码静态分析查找隐藏bug。[官网](http://findbugs.sourceforge.net/)
 * [jQAssistant](http://www.importnew.com/jqassistant/)：使用基于Neo4J查询语言进行代码静态分析。[官网](http://jqassistant.org/)
 * [SonarQube](http://www.importnew.com/sonarqube/)：通过插件集成其它分析组件，对过去一段时间内的数据进行统计。[官网](http://www.sonarqube.org/)
@@ -218,8 +218,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *简化数据库交互的相关工具。*
 
-* [HikariCP](http://www.importnew.com/hikaricp/)：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP) ⭐ 21,186 | 🐛 543 | 🌐 Java | 📅 2026-06-14
-* [Presto](http://www.importnew.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto) ⭐ 16,719 | 🐛 2,954 | 🌐 Java | 📅 2026-08-19
+* [HikariCP](http://www.importnew.com/hikaricp/)：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP) ⭐ 21,188 | 🐛 543 | 🌐 Java | 📅 2026-06-14
+* [Presto](http://www.importnew.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto) ⭐ 16,720 | 🐛 2,954 | 🌐 Java | 📅 2026-08-19
 * [Apache Phoenix](http://www.importnew.com/apache-phoenix/)：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
 * [Crate](http://www.importnew.com/crate/)：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)
 * [Flyway](http://www.importnew.com/flyway/)：简单的数据库迁移工具。[官网](http://flywaydb.org/)
@@ -231,8 +231,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h3 id="data-structures">数据结构</h3>
 
-* [Protobuf](http://www.importnew.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf) ⭐ 71,737 | 🐛 289 | 🌐 C++ | 📅 2026-08-19
-* [Wire](http://www.importnew.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire) ⭐ 4,426 | 🐛 163 | 🌐 Kotlin | 📅 2026-08-18
+* [Protobuf](http://www.importnew.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf) ⭐ 71,738 | 🐛 293 | 🌐 C++ | 📅 2026-08-19
+* [Wire](http://www.importnew.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire) ⭐ 4,426 | 🐛 164 | 🌐 Kotlin | 📅 2026-08-19
 * [SBE](http://www.importnew.com/sbe/)：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,490 | 🐛 43 | 🌐 Java | 📅 2026-08-17
 * [Apache Parquet](http://www.importnew.com/apache-parquet/)：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
 
@@ -257,7 +257,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *从最基本的层面增强开发流程。*
 
-* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster) ⭐ 22,439 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-19
+* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster) ⭐ 22,440 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-19
 * [Auto](http://www.importnew.com/auto/)：源代码生成器集合。[官网](https://github.com/google/auto) ⭐ 10,552 | 🐛 88 | 🌐 Java | 📅 2026-08-18
 * Spring Loaded：类重载代理。[官网](https://github.com/spring-projects/spring-loaded) ⭐ 2,717 | 🐛 129 | 🌐 Java | 📅 2022-04-07
 * HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent) ⭐ 2,610 | 🐛 109 | 🌐 Java | 📅 2026-08-12
@@ -432,11 +432,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *在客户端之间进行消息传递，确保协议独立性的工具。*
 
-* [Aeron](http://www.importnew.com/aeron/)：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron) ⭐ 8,805 | 🐛 23 | 🌐 Java | 📅 2026-08-19
+* [Aeron](http://www.importnew.com/aeron/)：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron) ⭐ 8,806 | 🐛 23 | 🌐 Java | 📅 2026-08-19
 * Openfire：是开源的、基于XMPP、采用Java编程语言开发的实时协作服务器。 Openfire安装和使用都非常简单，并可利用Web界面进行管理。 [官网](http://www.igniterealtime.org/projects/openfire/index.jsp) [GitHub](https://github.com/igniterealtime/Openfire) ⭐ 3,056 | 🐛 54 | 🌐 Java | 📅 2026-08-17
 * [JeroMQ](http://www.importnew.com/jeromq/)：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq) ⭐ 2,449 | 🐛 101 | 🌐 Java | 📅 2025-11-30
 * [Smack](http://www.importnew.com/smack/)：跨平台XMPP客户端函数库。[官网](https://github.com/igniterealtime/Smack/) ⭐ 2,413 | 🐛 46 | 🌐 Java | 📅 2026-06-19
-* Spark：是一个开源，跨平台IM客户端。它的特性支持集组聊天，电话集成和强大安全性能。如果企业内部部署IM使用Openfire+Spark是最佳的组合。 [官网](http://www.igniterealtime.org/projects/spark/index.jsp) [GitHub](https://github.com/igniterealtime/Spark) ⭐ 603 | 🐛 8 | 🌐 Java | 📅 2026-08-18
+* Spark：是一个开源，跨平台IM客户端。它的特性支持集组聊天，电话集成和强大安全性能。如果企业内部部署IM使用Openfire+Spark是最佳的组合。 [官网](http://www.igniterealtime.org/projects/spark/index.jsp) [GitHub](https://github.com/igniterealtime/Spark) ⭐ 603 | 🐛 7 | 🌐 Java | 📅 2026-08-19
 * [Apache ActiveMQ](http://www.importnew.com/activemq/)：实现JMS的开源消息代理（broker），可将同步通讯转为异步通讯。[官网](http://activemq.apache.org/)
 * [Apache Camel](http://www.importnew.com/apache-camel/)：通过企业级整合模式（Enterprise Integration Pattern EIP）将不同的消息传输API整合在一起。[官网](http://camel.apache.org/)
 * [Apache Kafka](http://www.importnew.com/kafka/)：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
@@ -449,7 +449,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *未分类其它资源。*
 
-* Design Patterns：实现并解释了最常见的设计模式。[官网](https://github.com/iluwatar/java-design-patterns) ⭐ 94,588 | 🐛 137 | 🌐 Java | 📅 2026-08-17
+* Design Patterns：实现并解释了最常见的设计模式。[官网](https://github.com/iluwatar/java-design-patterns) ⭐ 94,589 | 🐛 137 | 🌐 Java | 📅 2026-08-17
 * Jimfs：内存文件系统。[官网](https://github.com/google/jimfs) ⭐ 2,554 | 🐛 39 | 🌐 Java | 📅 2026-08-18
 * Lanterna：类似curses的简单console文本GUI函数库。[官网](https://code.google.com/p/lanterna/)
 * LightAdmin：可插入式CRUD UI函数库，可用来快速应用开发。[官网](http://lightadmin.org/)
@@ -499,7 +499,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *处理对象持久化的API。*
 
-* JFinal：JAVA WEB + ORM框架。[官网](http://www.jfinal.com)，[Github](https://github.com/jfinal/jfinal) ⭐ 3,270 | 🐛 13 | 🌐 Java | 📅 2026-08-18
+* JFinal：JAVA WEB + ORM框架。[官网](http://www.jfinal.com)，[Github](https://github.com/jfinal/jfinal) ⭐ 3,270 | 🐛 13 | 🌐 Java | 📅 2026-08-19
 * Nutz：另一个SSH。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz) ⭐ 2,542 | 🐛 66 | 🌐 Java | 📅 2026-08-04，[论坛](https://nutz.cn/)
 * [Ebean](http://www.importnew.com/ebean/)：支持快速数据访问和编码的ORM框架。[官网](http://ebean-orm.github.io/)
 * [EclipseLink](http://www.importnew.com/eclipselink/)：支持许多持久化标准，JPA、JAXB、JCA和SDO。[官网](https://www.eclipse.org/eclipselink/)
@@ -534,7 +534,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *用来开发响应式应用程序的开发库。*
 
-* [RxJava](http://www.importnew.com/rxjava/)：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava) ⭐ 48,202 | 🐛 11 | 🌐 Java | 📅 2026-08-17
+* [RxJava](http://www.importnew.com/rxjava/)：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava) ⭐ 48,203 | 🐛 10 | 🌐 Java | 📅 2026-08-19
 * [Reactive Streams](http://www.importnew.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
 * [Reactor](http://www.importnew.com/reactor/)：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
 
@@ -542,7 +542,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *用来创建RESTful 服务的框架。*
 
-* [Feign](http://www.importnew.com/feign/)：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign) ⭐ 9,798 | 🐛 214 | 🌐 Java | 📅 2026-08-19
+* [Feign](http://www.importnew.com/feign/)：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign) ⭐ 9,798 | 🐛 215 | 🌐 Java | 📅 2026-08-19
 * [RestExpress](http://www.importnew.com/restexpress/)：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress) ⭐ 939 | 🐛 28 | 🌐 Java | 📅 2026-02-27
 * [Dropwizard](http://www.importnew.com/dropwizard/)：偏向于自己使用的Web框架。用来构建Web应用程序，使用了Jetty、Jackson、Jersey和Metrics。[官网](https://dropwizard.github.io/drpwizard/)
 * Jersey：JAX-RS参考实现。[官网](https://jersey.java.net/)
@@ -578,16 +578,16 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Cryptomator](http://www.importnew.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](https://cryptomator.org/)
 * [Keycloak](http://www.importnew.com/keycloak/)：为浏览器应用和RESTful Web Service集成SSO和IDM。目前还处于beta版本，但是看起来非常有前途。[官网](http://keycloak.jboss.org/)
 * [PicketLink](http://www.importnew.com/picketlink/)：PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目（Umbrella Project）。[官网](http://picketlink.org/)
-* [Sa-Token](https://github.com/dromara/sa-token) ⭐ 18,994 | 🐛 102 | 🌐 Java | 📅 2026-08-19：Sa-Token 是一个轻量级 Java 权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0、微服务网关鉴权 等一系列权限相关问题。[官网](https://sa-token.dev33.cn/)
+* [Sa-Token](https://github.com/dromara/sa-token) ⭐ 18,995 | 🐛 102 | 🌐 Java | 📅 2026-08-19：Sa-Token 是一个轻量级 Java 权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0、微服务网关鉴权 等一系列权限相关问题。[官网](https://sa-token.dev33.cn/)
 
 <h3 id="serialization">序列化</h3>
 
 *用来高效处理序列化的函数库。*
 
-* [FlatBuffers](http://www.importnew.com/flatbuffers/)：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers) ⭐ 26,339 | 🐛 264 | 🌐 C++ | 📅 2026-08-11
+* [FlatBuffers](http://www.importnew.com/flatbuffers/)：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers) ⭐ 26,347 | 🐛 266 | 🌐 C++ | 📅 2026-08-11
 * [Kryo](http://www.importnew.com/kryo/)：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo) ⭐ 6,545 | 🐛 28 | 🌐 HTML | 📅 2026-08-17
 * [FST](http://www.importnew.com/fst/)：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization) ⭐ 1,595 | 🐛 127 | 🌐 Java | 📅 2023-06-30
-* [MessagePack](http://www.importnew.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java) ⭐ 1,473 | 🐛 69 | 🌐 Java | 📅 2026-08-13
+* [MessagePack](http://www.importnew.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java) ⭐ 1,473 | 🐛 69 | 🌐 Java | 📅 2026-08-19
 
 <h3 id="server">应用服务器</h3>
 
@@ -637,9 +637,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *通用工具类函数库。*
 
-* [Guava](http://www.importnew.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava) ⭐ 51,884 | 🐛 747 | 🌐 Java | 📅 2026-08-18
-* [Hutool](https://github.com/looly/hutool) ⭐ 30,267 | 🐛 2 | 🌐 Java | 📅 2026-08-18：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
-* [Gephi](http://www.importnew.com/gephi/)：可视化跨平台网络图形化操作程序。[官网](https://github.com/gephi/gephi/) ⭐ 6,617 | 🐛 520 | 🌐 Java | 📅 2026-08-08
+* [Guava](http://www.importnew.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava) ⭐ 51,887 | 🐛 748 | 🌐 Java | 📅 2026-08-18
+* [Hutool](https://github.com/looly/hutool) ⭐ 30,267 | 🐛 3 | 🌐 Java | 📅 2026-08-18：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
+* [Gephi](http://www.importnew.com/gephi/)：可视化跨平台网络图形化操作程序。[官网](https://github.com/gephi/gephi/) ⭐ 6,617 | 🐛 520 | 🌐 Java | 📅 2026-08-19
 * [Apache Commons](http://www.importnew.com/apache-commons/)：提供各种用途的函数，比如配置、验证、集合、文件上传或XML处理等。[官网](http://commons.apache.org/)
 * [args4j](http://www.importnew.com/args4j/)：命令行参数解析器。[官网](http://args4j.kohsuke.org/)
 * [CRaSH](http://www.importnew.com/crash/)：为运行进行提供CLI。[官网](http://www.crashub.org)
@@ -680,7 +680,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *流程驱动的软件系统构建。*
 
 * [jBPM](http://www.importnew.com/jbpm/)：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
-* Activity：轻量级工作流和业务流程管理框架。[官网](http://www.activiti.org/) [github](https://github.com/Activiti/Activiti) ⭐ 10,538 | 🐛 609 | 🌐 Java | 📅 2026-08-18
+* Activity：轻量级工作流和业务流程管理框架。[官网](http://www.activiti.org/) [github](https://github.com/Activiti/Activiti) ⭐ 10,538 | 🐛 609 | 🌐 Java | 📅 2026-08-19
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
