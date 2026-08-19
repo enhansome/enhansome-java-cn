@@ -1,14 +1,916 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "如何参与本项目？"
+      "description": "这些工具伴随着Java一起出现，在各自辉煌之后还在一直使用。\n构建及应用依赖关系处理工具。\n编程方式操作字节码的开发库。\n在集群内动态管理应用程序的框架。\n测量代码指标和质量工具。\n用来创建解析器、解释器或编译器的框架。\n支持外部配置的开发库。\n帮助解决约束满足问题的开发库。\n简化CSV数据读写的框架与开发库\n简化数据库交互的相关工具。\n处理时间和日期的开发库。\n帮实现依赖翻转范式的开发库。 官网\n从最基本的层面增强开发流程。\n用来编写分布式容错应用的开发库和框架。\n对应用程序而言，在分布式系统中的数据库看起来就像是只有一个数据源。\n以本机格式发布应用程序的工具。\n处理Office文档的开发库。\n函数式编程支持库。\n游戏开发框架。\n现代图形化用户界面开发库。\n涵盖了从集合到特定开发库的高性能计算相关工具。\n简化开发的集成开发环境。\n创建、评价和操作图片的支持库。\n简化JSON处理的开发库。\n目前的JVM和JDK实现。\n除Java外，可以用来编写JVM应用程序的编程语言。\n记录应用程序行为日志的开发库。\n提供具体统计算法的工具。其算法可从数据中学习。\n在客户端之间进行消息传递，确保协议独立性的工具。\n未分类其它资源。\n监控生产环境中应用程序的工具。\n用来进行特定平台开发的原生开发库。\n用来专门处理文本的函数库。\n网络编程函数库。\n处理对象持久化的API。\n用来帮助创建PDF文件的资源。\n性能分析、性能剖析及基准测试工具。\n用来开发响应式应用程序的开发库。\n用来创建RESTful 服务的框架。\n用于科学计算和分析的函数库。\n文档索引引擎，用于搜索和分析。\n用于处理安全、认证、授权或会话管理的函数库。\n用来高效处理序列化的函数库。\n用来部署应用程序的服务器。\n在模板中替换表达式的工具。\n测试内容从对象到接口，涵盖性能测试和基准测试工具。\n通用工具类函数库。\n用于分析网站内容的函数库。\n用于处理Web应用程序不同层次间通讯的框架。\n流程驱动的软件系统构建。\n具有广泛影响且值得阅读的Java经典书籍。\n可以一边编程一边听的东西。\n值得关注的Java技术站点。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Checkstyle",
+          "description": "：代码编写规范和标准静态分析工具。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12499251,
+            "language": "Java",
+            "last_commit": "2026-08-19T12:23:18Z",
+            "owner": "checkstyle",
+            "repo": "checkstyle",
+            "stars": 8990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Error Prone",
+          "description": "：将常见编程错误作为运行时错误报告。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23206290,
+            "language": "Java",
+            "last_commit": "2026-08-19T12:34:33Z",
+            "owner": "google",
+            "repo": "error-prone",
+            "stars": 7222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PMD",
+          "description": "：对源代码分析查找不良的编程习惯。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4992906,
+            "language": "Java",
+            "last_commit": "2026-08-19T11:45:09Z",
+            "owner": "pmd",
+            "repo": "pmd",
+            "stars": 5468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "config",
+          "description": "：针对JVM语言的配置库。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2923236,
+            "language": "Java",
+            "last_commit": "2026-07-01T15:19:54Z",
+            "owner": "lightbend",
+            "repo": "config",
+            "stars": 6311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "owner",
+          "description": "：减少冗余配置属性。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7292204,
+            "language": "Java",
+            "last_commit": "2026-08-19T11:59:40Z",
+            "owner": "matteobaccan",
+            "repo": "owner",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HikariCP",
+          "description": "：高性能JDBC连接工具。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13404515,
+            "language": "Java",
+            "last_commit": "2026-06-14T21:05:22Z",
+            "owner": "brettwooldridge",
+            "repo": "HikariCP",
+            "stars": 21186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presto",
+          "description": "：针对大数据的分布式SQL查询引擎。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5349565,
+            "language": "Java",
+            "last_commit": "2026-08-19T08:00:40Z",
+            "owner": "prestodb",
+            "repo": "presto",
+            "stars": 16719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protobuf",
+          "description": "：Google数据交换格式。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23357588,
+            "language": "C++",
+            "last_commit": "2026-08-19T10:11:04Z",
+            "owner": "protocolbuffers",
+            "repo": "protobuf",
+            "stars": 71737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wire",
+          "description": "：整洁轻量级协议缓存。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12274147,
+            "language": "Kotlin",
+            "last_commit": "2026-08-18T15:42:59Z",
+            "owner": "square",
+            "repo": "wire",
+            "stars": 4426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SBE",
+          "description": "：简单二进制编码，是最快速的消息格式之一。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12559641,
+            "language": "Java",
+            "last_commit": "2026-08-17T15:29:47Z",
+            "owner": "aeron-io",
+            "repo": "simple-binary-encoding",
+            "stars": 3490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13753636,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T07:27:22Z",
+            "owner": "jhipster",
+            "repo": "generator-jhipster",
+            "stars": 22439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto",
+          "description": "：源代码生成器集合。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10230369,
+            "language": "Java",
+            "last_commit": "2026-08-18T14:59:32Z",
+            "owner": "google",
+            "repo": "auto",
+            "stars": 10552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Loaded：类重载代理。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7044667,
+            "language": "Java",
+            "last_commit": "2022-04-07T12:04:39Z",
+            "owner": "spring-projects",
+            "repo": "spring-loaded",
+            "stars": 2717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HotswapAgent：支持无限次重定义运行时类与资源。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14561598,
+            "language": "Java",
+            "last_commit": "2026-08-12T08:46:50Z",
+            "owner": "HotswapProjects",
+            "repo": "HotswapAgent",
+            "stars": 2610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADT4J",
+          "description": "：针对代数数据类型的JSR-269代码生成器。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15796294,
+            "language": "Java",
+            "last_commit": "2018-03-02T08:07:43Z",
+            "owner": "sviperll",
+            "repo": "adt4j",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jOOλ：旨在填补Java 8 lambda差距的扩展，提供了众多缺失的类型和一组丰富的顺序流API。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17339218,
+            "language": "Java",
+            "last_commit": "2024-08-01T12:21:02Z",
+            "owner": "jOOQ",
+            "repo": "jOOL",
+            "stars": 2119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29557376,
+            "language": "Java",
+            "last_commit": "2023-03-21T11:08:31Z",
+            "owner": "AOL-archive",
+            "repo": "cyclops",
+            "stars": 1327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JCTools",
+          "description": "：JDK中缺失的并发工具。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14281190,
+            "language": "Java",
+            "last_commit": "2026-08-18T14:28:40Z",
+            "owner": "JCTools",
+            "repo": "JCTools",
+            "stars": 3866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agrona：高性能应用中常见的数据结构和工具方法。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26136655,
+            "language": "Java",
+            "last_commit": "2026-08-19T04:52:38Z",
+            "owner": "aeron-io",
+            "repo": "agrona",
+            "stars": 3236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GS Collections：受Smalltalk启发的集合框架。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3041887,
+            "language": "Java",
+            "last_commit": "2023-03-20T19:23:56Z",
+            "owner": "goldmansachs",
+            "repo": "gs-collections",
+            "stars": 1821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Koloboke",
+          "description": "：Hash set和hash map。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14376799,
+            "language": "Java",
+            "last_commit": "2017-02-01T10:43:20Z",
+            "owner": "leventov",
+            "repo": "Koloboke",
+            "stars": 1017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "High-scale-lib:Cliff Click 个人开发的高性能并发库官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173520,
+            "language": "Java",
+            "last_commit": "2024-01-24T22:12:12Z",
+            "owner": "stephenc",
+            "repo": "high-scale-lib",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZXing",
+          "description": "：支持多种格式的一维、二维条形码图片处理开发库。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2562751,
+            "language": "Java",
+            "last_commit": "2026-08-17T06:52:29Z",
+            "owner": "zxing",
+            "repo": "zxing",
+            "stars": 34070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thumbnailator",
+          "description": "：Thumbnailator是一个高质量Java缩略图开发库。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39673913,
+            "language": "Java",
+            "last_commit": "2026-02-17T17:48:42Z",
+            "owner": "coobird",
+            "repo": "thumbnailator",
+            "stars": 5427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imgscalr",
+          "description": "：纯Java 2D实现，简单、高效、支持硬件加速的图像缩放开发库。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1036067603,
+            "language": null,
+            "last_commit": "2025-08-11T14:06:00Z",
+            "owner": "thebuzzmedia",
+            "repo": "imgscalr",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastjson",
+          "description": "：一个Java语言编写的高性能功能完善的JSON库。官网",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2700474,
+            "language": "Java",
+            "last_commit": "2026-07-29T08:04:40Z",
+            "owner": "alibaba",
+            "repo": "fastjson",
+            "stars": 25600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gson",
+          "description": "：谷歌官方推出的JSON处理库，支持在对象与JSON之间双向序列化，性能良好且可以实时调用。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32538871,
+            "language": "Java",
+            "last_commit": "2026-08-14T19:50:04Z",
+            "owner": "google",
+            "repo": "gson",
+            "stars": 24226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kyro：快速、高效、自动化的Java对象序列化和克隆库。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14173176,
+            "language": "HTML",
+            "last_commit": "2026-08-17T11:23:04Z",
+            "owner": "EsotericSoftware",
+            "repo": "kryo",
+            "stars": 6545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoganSquare",
+          "description": "：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30900836,
+            "language": "Java",
+            "last_commit": "2021-12-07T11:35:04Z",
+            "owner": "bluelinelabs",
+            "repo": "LoganSquare",
+            "stars": 3180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aeron",
+          "description": "：高效可扩展的单播、多播消息传递工具。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16621659,
+            "language": "Java",
+            "last_commit": "2026-08-19T10:19:37Z",
+            "owner": "aeron-io",
+            "repo": "aeron",
+            "stars": 8805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Openfire：是开源的、基于XMPP、采用Java编程语言开发的实时协作服务器。 Openfire安装和使用都非常简单，并可利用Web界面进行管理。 官网",
+          "description": "GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18511687,
+            "language": "Java",
+            "last_commit": "2026-08-17T13:45:58Z",
+            "owner": "igniterealtime",
+            "repo": "Openfire",
+            "stars": 3056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JeroMQ",
+          "description": "：ZeroMQ的纯Java实现。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5257374,
+            "language": "Java",
+            "last_commit": "2025-11-30T13:59:58Z",
+            "owner": "zeromq",
+            "repo": "jeromq",
+            "stars": 2449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smack",
+          "description": "：跨平台XMPP客户端函数库。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16477702,
+            "language": "Java",
+            "last_commit": "2026-06-19T10:43:12Z",
+            "owner": "igniterealtime",
+            "repo": "Smack",
+            "stars": 2413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark：是一个开源，跨平台IM客户端。它的特性支持集组聊天，电话集成和强大安全性能。如果企业内部部署IM使用Openfire+Spark是最佳的组合。 官网",
+          "description": "GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14648981,
+            "language": "Java",
+            "last_commit": "2026-08-18T19:17:19Z",
+            "owner": "igniterealtime",
+            "repo": "Spark",
+            "stars": 603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design Patterns：实现并解释了最常见的设计模式。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22790488,
+            "language": "Java",
+            "last_commit": "2026-08-17T22:42:48Z",
+            "owner": "iluwatar",
+            "repo": "java-design-patterns",
+            "stars": 94588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jimfs：内存文件系统。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13745124,
+            "language": "Java",
+            "last_commit": "2026-08-18T15:51:17Z",
+            "owner": "google",
+            "repo": "jimfs",
+            "stars": 2554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Async Http Client",
+          "description": "：异步HTTP和WebSocket客户端函数库。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1450115,
+            "language": "Java",
+            "last_commit": "2026-08-16T19:33:11Z",
+            "owner": "AsyncHttpClient",
+            "repo": "async-http-client",
+            "stars": 6391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brpc-java: java版baidu rpc框架，高性能、多协议、易扩展、低耦合。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162548942,
+            "language": "Java",
+            "last_commit": "2025-10-20T16:23:37Z",
+            "owner": "baidu",
+            "repo": "starlight",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JFinal：JAVA WEB + ORM框架。官网",
+          "description": "，Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4134560,
+            "language": "Java",
+            "last_commit": "2026-08-18T11:16:20Z",
+            "owner": "jfinal",
+            "repo": "jfinal",
+            "stars": 3270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nutz：另一个SSH。官网",
+          "description": "，Github，论坛",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1873881,
+            "language": "Java",
+            "last_commit": "2026-08-04T03:17:39Z",
+            "owner": "nutzam",
+            "repo": "nutz",
+            "stars": 2542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jHiccup",
+          "description": "：提供平台中JVM暂停的日志和记录。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13547035,
+            "language": "Java",
+            "last_commit": "2026-02-05T13:35:55Z",
+            "owner": "giltene",
+            "repo": "jHiccup",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LatencyUtils",
+          "description": "：测量和报告延迟的工具。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13363907,
+            "language": "Java",
+            "last_commit": "2024-05-05T10:53:20Z",
+            "owner": "LatencyUtils",
+            "repo": "LatencyUtils",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxJava",
+          "description": "：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7508411,
+            "language": "Java",
+            "last_commit": "2026-08-17T08:50:30Z",
+            "owner": "ReactiveX",
+            "repo": "RxJava",
+            "stars": 48202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feign",
+          "description": "：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10981994,
+            "language": "Java",
+            "last_commit": "2026-08-19T12:28:15Z",
+            "owner": "OpenFeign",
+            "repo": "feign",
+            "stars": 9798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RestExpress",
+          "description": "：一个Java类型安全的REST客户端。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1227017,
+            "language": "Java",
+            "last_commit": "2026-02-27T12:42:25Z",
+            "owner": "RestExpress",
+            "repo": "RestExpress",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlatBuffers",
+          "description": "：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19953044,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:49:45Z",
+            "owner": "google",
+            "repo": "flatbuffers",
+            "stars": 26339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kryo",
+          "description": "：快速、高效的对象图形序列化框架。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14173176,
+            "language": "HTML",
+            "last_commit": "2026-08-17T11:23:04Z",
+            "owner": "EsotericSoftware",
+            "repo": "kryo",
+            "stars": 6545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FST",
+          "description": "：提供兼容JDK的高性能对象图形序列化。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14965048,
+            "language": "Java",
+            "last_commit": "2023-06-30T08:15:18Z",
+            "owner": "RuedigerMoeller",
+            "repo": "fast-serialization",
+            "stars": 1595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MessagePack",
+          "description": "：一种高效的二进制序列化格式。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1971346,
+            "language": "Java",
+            "last_commit": "2026-08-13T04:21:15Z",
+            "owner": "msgpack",
+            "repo": "msgpack-java",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mockito",
+          "description": "：在自动化单元测试中创建测试对象，为TDD或BDD提供支持。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6207167,
+            "language": "Java",
+            "last_commit": "2026-08-10T18:54:33Z",
+            "owner": "mockito",
+            "repo": "mockito",
+            "stars": 15445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REST Assured",
+          "description": "：为REST/HTTP服务提供方便测试的Java DSL。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011539,
+            "language": "Java",
+            "last_commit": "2026-07-22T08:35:07Z",
+            "owner": "rest-assured",
+            "repo": "rest-assured",
+            "stars": 7136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerMock",
+          "description": "： 支持模拟静态方法、构造函数、final类和方法、私有方法以及移除静态初始化器的模拟工具。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20249391,
+            "language": "Java",
+            "last_commit": "2024-01-03T18:46:42Z",
+            "owner": "powermock",
+            "repo": "powermock",
+            "stars": 4171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awaitility",
+          "description": "：用来同步异步操作的DSL。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 483924,
+            "language": "Java",
+            "last_commit": "2026-04-17T11:01:24Z",
+            "owner": "awaitility",
+            "repo": "awaitility",
+            "stars": 4020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cucumber",
+          "description": "：BDD测试框架。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1962219,
+            "language": "Java",
+            "last_commit": "2026-08-18T19:46:16Z",
+            "owner": "cucumber",
+            "repo": "cucumber-jvm",
+            "stars": 2830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Truth",
+          "description": "：Google的断言和命题（proposition）框架。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1936771,
+            "language": "Java",
+            "last_commit": "2026-08-10T22:24:48Z",
+            "owner": "google",
+            "repo": "truth",
+            "stars": 2787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guava",
+          "description": "：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20300177,
+            "language": "Java",
+            "last_commit": "2026-08-18T19:01:59Z",
+            "owner": "google",
+            "repo": "guava",
+            "stars": 51884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hutool",
+          "description": "：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18723836,
+            "language": "Java",
+            "last_commit": "2026-08-18T10:45:11Z",
+            "owner": "chinabugotech",
+            "repo": "hutool",
+            "stars": 30267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gephi",
+          "description": "：可视化跨平台网络图形化操作程序。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2624521,
+            "language": "Java",
+            "last_commit": "2026-08-08T13:16:42Z",
+            "owner": "gephi",
+            "repo": "gephi",
+            "stars": 6617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webmagic",
+          "description": "：一个可扩展的Java爬虫框架，架构类似Python的Scrapy。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9623064,
+            "language": "Java",
+            "last_commit": "2025-12-20T14:01:57Z",
+            "owner": "code4craft",
+            "repo": "webmagic",
+            "stars": 11680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crawler4j",
+          "description": "：简单的轻量级网络爬虫。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3081071,
+            "language": "Java",
+            "last_commit": "2021-11-04T08:31:46Z",
+            "owner": "yasserg",
+            "repo": "crawler4j",
+            "stars": 4619
+          }
+        }
+      ],
+      "title": "目录"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:42:16.561Z",
+    "last_updated": "2026-08-19T12:34:43.643Z",
     "original_repository": "jobbole/awesome-java-cn",
+    "original_repository_id": 43482568,
     "original_repository_sha": "0de84c794f291759f903c04100c31acbe6c8c03b",
     "enhanced_repository": "enhansome/enhansome-java-cn",
     "enhanced_repository_description": null,
