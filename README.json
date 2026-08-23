@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-22T21:11:33Z",
+            "last_commit": "2026-08-23T20:19:31Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 8998
+            "stars": 8999
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 23206290,
             "language": "Java",
-            "last_commit": "2026-08-22T17:35:14Z",
+            "last_commit": "2026-08-23T14:12:29Z",
             "owner": "google",
             "repo": "error-prone",
             "stars": 7225
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T11:11:38Z",
             "owner": "pmd",
             "repo": "pmd",
-            "stars": 5467
+            "stars": 5469
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-01T15:19:54Z",
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6314
+            "stars": 6313
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-14T21:05:22Z",
             "owner": "brettwooldridge",
             "repo": "HikariCP",
-            "stars": 21189
+            "stars": 21190
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-22T13:40:24Z",
+            "last_commit": "2026-08-23T20:42:39Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71810
+            "stars": 71813
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 13753636,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T09:40:32Z",
+            "last_commit": "2026-08-23T09:42:04Z",
             "owner": "jhipster",
             "repo": "generator-jhipster",
-            "stars": 22442
+            "stars": 22444
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-12T08:46:50Z",
             "owner": "HotswapProjects",
             "repo": "HotswapAgent",
-            "stars": 2611
+            "stars": 2610
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-18T14:28:40Z",
             "owner": "JCTools",
             "repo": "JCTools",
-            "stars": 3868
+            "stars": 3869
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-20T14:01:11Z",
             "owner": "aeron-io",
             "repo": "agrona",
-            "stars": 3237
+            "stars": 3239
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-21T18:42:21Z",
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 34073
+            "stars": 34075
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-14T19:50:04Z",
             "owner": "google",
             "repo": "gson",
-            "stars": 24228
+            "stars": 24226
           }
         },
         {
@@ -447,10 +447,10 @@
             "archived": false,
             "id": 16621659,
             "language": "Java",
-            "last_commit": "2026-08-22T20:49:00Z",
+            "last_commit": "2026-08-23T17:35:00Z",
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8810
+            "stars": 8813
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-17T13:45:58Z",
             "owner": "igniterealtime",
             "repo": "Openfire",
-            "stars": 3057
+            "stars": 3058
           }
         },
         {
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 16477702,
             "language": "Java",
-            "last_commit": "2026-08-21T08:46:19Z",
+            "last_commit": "2026-08-23T10:28:08Z",
             "owner": "igniterealtime",
             "repo": "Smack",
             "stars": 2413
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-17T22:42:48Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94604
+            "stars": 94606
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-21T06:15:16Z",
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48205
+            "stars": 48204
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-21T16:41:28Z",
             "owner": "OpenFeign",
             "repo": "feign",
-            "stars": 9798
+            "stars": 9796
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-11T19:49:45Z",
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26395
+            "stars": 26402
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-21T16:00:37Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51890
+            "stars": 51891
           }
         },
         {
@@ -867,10 +867,10 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-22T17:38:21Z",
+            "last_commit": "2026-08-23T14:31:27Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6619
+            "stars": 6620
           }
         },
         {
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:40:44.999Z",
+    "last_updated": "2026-08-23T21:40:50.579Z",
     "original_repository": "jobbole/awesome-java-cn",
     "original_repository_id": 43482568,
     "original_repository_sha": "0de84c794f291759f903c04100c31acbe6c8c03b",
