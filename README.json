@@ -27,7 +27,7 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-24T21:45:17Z",
+            "last_commit": "2026-08-25T02:02:33Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
             "stars": 9000
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 23206290,
             "language": "Java",
-            "last_commit": "2026-08-24T16:33:26Z",
+            "last_commit": "2026-08-24T22:58:10Z",
             "owner": "google",
             "repo": "error-prone",
             "stars": 7226
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 5349565,
             "language": "Java",
-            "last_commit": "2026-08-24T21:39:55Z",
+            "last_commit": "2026-08-24T23:48:13Z",
             "owner": "prestodb",
             "repo": "presto",
             "stars": 16724
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-24T21:41:01Z",
+            "last_commit": "2026-08-25T05:38:42Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71821
+            "stars": 71822
           }
         },
         {
@@ -237,7 +237,7 @@
             "archived": false,
             "id": 13753636,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:46:59Z",
+            "last_commit": "2026-08-25T03:04:59Z",
             "owner": "jhipster",
             "repo": "generator-jhipster",
             "stars": 22444
@@ -315,7 +315,7 @@
             "last_commit": "2025-12-17T03:21:02Z",
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24473
+            "stars": 24474
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-24T03:29:44Z",
             "owner": "dropwizard",
             "repo": "metrics",
-            "stars": 7841
+            "stars": 7842
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-24T21:11:55Z",
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8814
+            "stars": 8815
           }
         },
         {
@@ -657,10 +657,10 @@
             "archived": false,
             "id": 22790488,
             "language": "Java",
-            "last_commit": "2026-08-17T22:42:48Z",
+            "last_commit": "2026-08-25T04:52:07Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94611
+            "stars": 94612
           }
         },
         {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 10981994,
             "language": "Java",
-            "last_commit": "2026-08-24T05:47:22Z",
+            "last_commit": "2026-08-25T05:24:05Z",
             "owner": "OpenFeign",
             "repo": "feign",
             "stars": 9796
@@ -882,7 +882,7 @@
             "archived": false,
             "id": 237940592,
             "language": "Java",
-            "last_commit": "2026-08-24T16:24:06Z",
+            "last_commit": "2026-08-25T04:04:37Z",
             "owner": "dromara",
             "repo": "Sa-Token",
             "stars": 18999
@@ -1050,7 +1050,7 @@
             "last_commit": "2026-08-24T21:31:37Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51891
+            "stars": 51890
           }
         },
         {
@@ -1122,7 +1122,7 @@
             "archived": false,
             "id": 5793738,
             "language": "Java",
-            "last_commit": "2026-08-24T14:02:03Z",
+            "last_commit": "2026-08-25T05:23:33Z",
             "owner": "Activiti",
             "repo": "Activiti",
             "stars": 10539
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:48:30.634Z",
+    "last_updated": "2026-08-25T05:43:29.874Z",
     "original_repository": "jobbole/awesome-java-cn",
     "original_repository_id": 43482568,
     "original_repository_sha": "0de84c794f291759f903c04100c31acbe6c8c03b",
