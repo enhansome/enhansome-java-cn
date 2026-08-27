@@ -1,6 +1,6 @@
 # Awesome Java资源大全中文版 with stars
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,845 | 🐛 3 | 📅 2026-08-24 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 [ImportNew](http://www.importnew.com/14429.html)。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,854 | 🐛 3 | 📅 2026-08-24 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 [ImportNew](http://www.importnew.com/14429.html)。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
@@ -166,9 +166,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *测量代码指标和质量工具。*
 
-* [Checkstyle](http://www.importnew.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle) ⭐ 8,999 | 🐛 786 | 🌐 Java | 📅 2026-08-25
-* [Error Prone](http://www.importnew.com/error-prone/)：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone) ⭐ 7,225 | 🐛 522 | 🌐 Java | 📅 2026-08-25
-* [PMD](http://www.importnew.com/pmd/)：对源代码分析查找不良的编程习惯。[官网](https://github.com/pmd/pmd) ⭐ 5,471 | 🐛 586 | 🌐 Java | 📅 2026-08-21
+* [Checkstyle](http://www.importnew.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle) ⭐ 9,002 | 🐛 780 | 🌐 Java | 📅 2026-08-27
+* [Error Prone](http://www.importnew.com/error-prone/)：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone) ⭐ 7,225 | 🐛 523 | 🌐 Java | 📅 2026-08-26
+* [PMD](http://www.importnew.com/pmd/)：对源代码分析查找不良的编程习惯。[官网](https://github.com/pmd/pmd) ⭐ 5,474 | 🐛 590 | 🌐 Java | 📅 2026-08-26
 * FindBugs：通过字节码静态分析查找隐藏bug。[官网](http://findbugs.sourceforge.net/)
 * [jQAssistant](http://www.importnew.com/jqassistant/)：使用基于Neo4J查询语言进行代码静态分析。[官网](http://jqassistant.org/)
 * [SonarQube](http://www.importnew.com/sonarqube/)：通过插件集成其它分析组件，对过去一段时间内的数据进行统计。[官网](http://www.sonarqube.org/)
@@ -184,7 +184,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *支持外部配置的开发库。*
 
-* [config](http://www.importnew.com/config/)：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config) ⭐ 6,313 | 🐛 243 | 🌐 Java | 📅 2026-07-01
+* [config](http://www.importnew.com/config/)：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config) ⭐ 6,313 | 🐛 242 | 🌐 Java | 📅 2026-07-01
 * [owner](http://www.importnew.com/owner/)：减少冗余配置属性。[官网](https://github.com/lviggiano/owner) ⭐ 940 | 🐛 1 | 🌐 Java | 📅 2026-08-22
 
 <h3 id="constraint-satisfaction-problem-solver">约束满足问题求解程序</h3>
@@ -219,7 +219,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *简化数据库交互的相关工具。*
 
 * [HikariCP](http://www.importnew.com/hikaricp/)：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP) ⭐ 21,192 | 🐛 544 | 🌐 Java | 📅 2026-06-14
-* [Presto](http://www.importnew.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto) ⭐ 16,724 | 🐛 2,949 | 🌐 Java | 📅 2026-08-25
+* [Presto](http://www.importnew.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto) ⭐ 16,724 | 🐛 2,952 | 🌐 Java | 📅 2026-08-26
 * [Apache Phoenix](http://www.importnew.com/apache-phoenix/)：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
 * [Crate](http://www.importnew.com/crate/)：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)
 * [Flyway](http://www.importnew.com/flyway/)：简单的数据库迁移工具。[官网](http://flywaydb.org/)
@@ -231,8 +231,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h3 id="data-structures">数据结构</h3>
 
-* [Protobuf](http://www.importnew.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf) ⭐ 71,828 | 🐛 330 | 🌐 C++ | 📅 2026-08-25
-* [Wire](http://www.importnew.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire) ⭐ 4,428 | 🐛 160 | 🌐 Kotlin | 📅 2026-08-25
+* [Protobuf](http://www.importnew.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf) ⭐ 71,825 | 🐛 319 | 🌐 C++ | 📅 2026-08-27
+* [Wire](http://www.importnew.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire) ⭐ 4,428 | 🐛 161 | 🌐 Kotlin | 📅 2026-08-25
 * [SBE](http://www.importnew.com/sbe/)：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,495 | 🐛 39 | 🌐 Java | 📅 2026-08-22
 * [Apache Parquet](http://www.importnew.com/apache-parquet/)：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
 
@@ -257,10 +257,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *从最基本的层面增强开发流程。*
 
-* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster) ⭐ 22,445 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-25
+* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster) ⭐ 22,446 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-26
 * [Auto](http://www.importnew.com/auto/)：源代码生成器集合。[官网](https://github.com/google/auto) ⭐ 10,551 | 🐛 89 | 🌐 Java | 📅 2026-08-18
 * Spring Loaded：类重载代理。[官网](https://github.com/spring-projects/spring-loaded) ⭐ 2,717 | 🐛 128 | 🌐 Java | 📅 2022-04-07
-* HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent) ⭐ 2,610 | 🐛 109 | 🌐 Java | 📅 2026-08-12
+* HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent) ⭐ 2,611 | 🐛 107 | 🌐 Java | 📅 2026-08-26
 * [ADT4J](http://www.importnew.com/adt4j/)：针对代数数据类型的JSR-269代码生成器。[官网](https://github.com/sviperll/adt4j) ⭐ 150 | 🐛 12 | 🌐 Java | 📅 2018-03-02
 * [AspectJ](http://www.importnew.com/aspectj/)：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)
 * [DCEVM](http://www.importnew.com/dcevm/)：通过修改JVM在运行时支持对已加载的类进行无限次重定义。[官网](http://dcevm.github.io/)
@@ -343,7 +343,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *涵盖了从集合到特定开发库的高性能计算相关工具。*
 
 * [JCTools](http://www.importnew.com/jctools/)：JDK中缺失的并发工具。[官网](https://github.com/JCTools/JCTools) ⭐ 3,869 | 🐛 49 | 🌐 Java | 📅 2026-08-18
-* Agrona：高性能应用中常见的数据结构和工具方法。[官网](https://github.com/real-logic/Agrona) ⭐ 3,240 | 🐛 4 | 🌐 Java | 📅 2026-08-20
+* Agrona：高性能应用中常见的数据结构和工具方法。[官网](https://github.com/real-logic/Agrona) ⭐ 3,241 | 🐛 4 | 🌐 Java | 📅 2026-08-20
 * GS Collections：受Smalltalk启发的集合框架。[官网](https://github.com/goldmansachs/gs-collections) ⭐ 1,822 | 🐛 25 | 🌐 Java | 📅 2023-03-20
 * [Koloboke](http://www.importnew.com/koloboke/)：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke) ⭐ 1,017 | 🐛 40 | 🌐 Java | 📅 2017-02-01
 * High-scale-lib:Cliff Click 个人开发的高性能并发库[官网](https://github.com/stephenc/high-scale-lib) ⭐ 166 | 🐛 4 | 🌐 Java | 📅 2024-01-24
@@ -368,7 +368,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *创建、评价和操作图片的支持库。*
 
 * [ZXing](http://www.importnew.com/zxing/)：支持多种格式的一维、二维条形码图片处理开发库。[官网](https://github.com/zxing/zxing) ⭐ 34,077 | 🐛 0 | 🌐 Java | 📅 2026-08-24
-* [Thumbnailator](http://www.importnew.com/thumbnailator/)：Thumbnailator是一个高质量Java缩略图开发库。[官网](https://github.com/coobird/thumbnailator) ⭐ 5,427 | 🐛 54 | 🌐 Java | 📅 2026-02-17
+* [Thumbnailator](http://www.importnew.com/thumbnailator/)：Thumbnailator是一个高质量Java缩略图开发库。[官网](https://github.com/coobird/thumbnailator) ⭐ 5,425 | 🐛 54 | 🌐 Java | 📅 2026-02-17
 * [Imgscalr](http://www.importnew.com/imgscalr/)：纯Java 2D实现，简单、高效、支持硬件加速的图像缩放开发库。[官网](https://github.com/thebuzzmedia/imgscalr) ⭐ 0 | 🐛 0 | 📅 2025-08-11
 * [Picasso](http://www.importnew.com/picasso/)：安卓图片下载和图片缓存开发库。[官网](http://square.github.io/picasso/)
 * [im4java](http://www.importnew.com/im4java/): 基于ImageMagick或GraphicsMagick命令行的图片处理开发库，基本上ImageMagick能够支持的图片格式和处理方式都能够处理。[官网](http://im4java.sourceforge.net/)
@@ -379,8 +379,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *简化JSON处理的开发库。*
 
 * [Fastjson](http://www.importnew.com/fastjson/)：一个Java语言编写的高性能功能完善的JSON库。[官网](https://github.com/Alibaba/fastjson) ⚠️ Archived
-* [Gson](http://www.importnew.com/gson/)：谷歌官方推出的JSON处理库，支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson) ⭐ 24,224 | 🐛 343 | 🌐 Java | 📅 2026-08-25
-* Kyro：快速、高效、自动化的Java对象序列化和克隆库。[官网](https://github.com/EsotericSoftware/kryo) ⭐ 6,545 | 🐛 29 | 🌐 HTML | 📅 2026-08-24
+* [Gson](http://www.importnew.com/gson/)：谷歌官方推出的JSON处理库，支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson) ⭐ 24,225 | 🐛 342 | 🌐 Java | 📅 2026-08-26
+* Kyro：快速、高效、自动化的Java对象序列化和克隆库。[官网](https://github.com/EsotericSoftware/kryo) ⭐ 6,546 | 🐛 28 | 🌐 HTML | 📅 2026-08-24
 * [LoganSquare](http://www.importnew.com/logansquare/)：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoganSquare) ⭐ 3,180 | 🐛 83 | 🌐 Java | 📅 2021-12-07
 * [Genson](http://www.importnew.com/genson/)：强大且易于使用的Java到JSON转换开发库。[官网](http://owlike.github.io/genson)
 * [Jackson](http://www.importnew.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
@@ -407,7 +407,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *记录应用程序行为日志的开发库。*
 
-* [Metrics](http://www.importnew.com/metrics/)：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](https://github.com/dropwizard/metrics) ⭐ 7,842 | 🐛 11 | 🌐 Java | 📅 2026-08-24
+* [Metrics](http://www.importnew.com/metrics/)：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](https://github.com/dropwizard/metrics) ⭐ 7,843 | 🐛 11 | 🌐 Java | 📅 2026-08-24
 * [Apache Log4j 2](http://www.importnew.com/log4j2/)：使用强大的插件和配置架构进行完全重写。[官网](http://logging.apache.org/log4j/)
 * [kibana](http://www.importnew.com/kibana/)：分析及可视化日志文件。[官网](https://www.elastic.co/products/kibana)
 * [Logback](http://www.importnew.com/logback/)：强健的日期开发库，通过Groovy提供很多有趣的选项。[官网](http://logback.qos.ch/)
@@ -432,8 +432,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *在客户端之间进行消息传递，确保协议独立性的工具。*
 
-* [Aeron](http://www.importnew.com/aeron/)：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron) ⭐ 8,815 | 🐛 24 | 🌐 Java | 📅 2026-08-24
-* Openfire：是开源的、基于XMPP、采用Java编程语言开发的实时协作服务器。 Openfire安装和使用都非常简单，并可利用Web界面进行管理。 [官网](http://www.igniterealtime.org/projects/openfire/index.jsp) [GitHub](https://github.com/igniterealtime/Openfire) ⭐ 3,059 | 🐛 50 | 🌐 Java | 📅 2026-08-25
+* [Aeron](http://www.importnew.com/aeron/)：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron) ⭐ 8,818 | 🐛 24 | 🌐 Java | 📅 2026-08-26
+* Openfire：是开源的、基于XMPP、采用Java编程语言开发的实时协作服务器。 Openfire安装和使用都非常简单，并可利用Web界面进行管理。 [官网](http://www.igniterealtime.org/projects/openfire/index.jsp) [GitHub](https://github.com/igniterealtime/Openfire) ⭐ 3,059 | 🐛 51 | 🌐 Java | 📅 2026-08-25
 * [JeroMQ](http://www.importnew.com/jeromq/)：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq) ⭐ 2,450 | 🐛 101 | 🌐 Java | 📅 2025-11-30
 * [Smack](http://www.importnew.com/smack/)：跨平台XMPP客户端函数库。[官网](https://github.com/igniterealtime/Smack/) ⭐ 2,413 | 🐛 45 | 🌐 Java | 📅 2026-08-23
 * Spark：是一个开源，跨平台IM客户端。它的特性支持集组聊天，电话集成和强大安全性能。如果企业内部部署IM使用Openfire+Spark是最佳的组合。 [官网](http://www.igniterealtime.org/projects/spark/index.jsp) [GitHub](https://github.com/igniterealtime/Spark) ⭐ 603 | 🐛 7 | 🌐 Java | 📅 2026-08-19
@@ -449,8 +449,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *未分类其它资源。*
 
-* Design Patterns：实现并解释了最常见的设计模式。[官网](https://github.com/iluwatar/java-design-patterns) ⭐ 94,618 | 🐛 133 | 🌐 Java | 📅 2026-08-25
-* Jimfs：内存文件系统。[官网](https://github.com/google/jimfs) ⭐ 2,556 | 🐛 40 | 🌐 Java | 📅 2026-08-18
+* Design Patterns：实现并解释了最常见的设计模式。[官网](https://github.com/iluwatar/java-design-patterns) ⭐ 94,625 | 🐛 134 | 🌐 Java | 📅 2026-08-25
+* Jimfs：内存文件系统。[官网](https://github.com/google/jimfs) ⭐ 2,557 | 🐛 40 | 🌐 Java | 📅 2026-08-18
 * Lanterna：类似curses的简单console文本GUI函数库。[官网](https://code.google.com/p/lanterna/)
 * LightAdmin：可插入式CRUD UI函数库，可用来快速应用开发。[官网](http://lightadmin.org/)
 * OpenRefine：用来处理混乱数据的工具，包括清理、转换、使用Web Service进行扩展并将其关联到数据库。[官网](http://openrefine.org/)
@@ -487,7 +487,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *网络编程函数库。*
 
-* [Async Http Client](http://www.importnew.com/async-http-client/)：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client) ⭐ 6,393 | 🐛 95 | 🌐 Java | 📅 2026-08-16
+* [Async Http Client](http://www.importnew.com/async-http-client/)：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client) ⭐ 6,393 | 🐛 97 | 🌐 Java | 📅 2026-08-26
 * brpc-java: java版baidu rpc框架，高性能、多协议、易扩展、低耦合。[官网](https://github.com/baidu/brpc-java) ⭐ 976 | 🐛 17 | 🌐 Java | 📅 2025-10-20
 * [Grizzly](http://www.importnew.com/grizzly/)：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
 * [Netty](http://www.importnew.com/netty/)：构建高性能网络应用程序开发框架。[官网](http://netty.io/)
@@ -512,7 +512,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *用来帮助创建PDF文件的资源。*
 
-* [flyingsaucer](http://www.importnew.com/flyingsaucer/)：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer) ⭐ 2,233 | 🐛 35 | 🌐 Java | 📅 2026-08-18
+* [flyingsaucer](http://www.importnew.com/flyingsaucer/)：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer) ⭐ 2,236 | 🐛 36 | 🌐 Java | 📅 2026-08-27
 * [Apache FOP](http://www.importnew.com/apache_fop/)：从XSL-FO创建PDF。[官网](http://xmlgraphics.apache.org/fop/)
 * [Apache PDFBox](http://www.importnew.com/apache-pdfbox/)：用来创建和操作PDF的工具集。[官网](http://pdfbox.apache.org/)
 * [DynamicReports](http://www.importnew.com/dynamicreports/)：JasperReports的精简版。[官网](http://dynamicreports.org/)
@@ -534,7 +534,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *用来开发响应式应用程序的开发库。*
 
-* [RxJava](http://www.importnew.com/rxjava/)：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava) ⭐ 48,203 | 🐛 10 | 🌐 Java | 📅 2026-08-24
+* [RxJava](http://www.importnew.com/rxjava/)：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava) ⭐ 48,204 | 🐛 10 | 🌐 Java | 📅 2026-08-24
 * [Reactive Streams](http://www.importnew.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
 * [Reactor](http://www.importnew.com/reactor/)：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
 
@@ -573,7 +573,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *用于处理安全、认证、授权或会话管理的函数库。*
 
-* [Sa-Token](https://github.com/dromara/sa-token) ⭐ 19,002 | 🐛 105 | 🌐 Java | 📅 2026-08-25：Sa-Token 是一个轻量级 Java 权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0、微服务网关鉴权 等一系列权限相关问题。[官网](https://sa-token.dev33.cn/)
+* [Sa-Token](https://github.com/dromara/sa-token) ⭐ 19,005 | 🐛 105 | 🌐 Java | 📅 2026-08-26：Sa-Token 是一个轻量级 Java 权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0、微服务网关鉴权 等一系列权限相关问题。[官网](https://sa-token.dev33.cn/)
 * [Apache Shiro](http://www.importnew.com/shiro/)：执行认证、授权、加密和会话管理。[官网](http://shiro.apache.org/)
 * [Bouncy Castle](http://www.importnew.com/bouncy-castle/)，涵盖了从基础的帮助函数到PGP/SMIME操作。[官网](https://www.bouncycastle.org/java.html)：多途加密开发库。支持JCA提供者（JCA provider)
 * [Cryptomator](http://www.importnew.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](https://cryptomator.org/)
@@ -584,8 +584,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *用来高效处理序列化的函数库。*
 
-* [FlatBuffers](http://www.importnew.com/flatbuffers/)：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers) ⭐ 26,408 | 🐛 267 | 🌐 C++ | 📅 2026-08-11
-* [Kryo](http://www.importnew.com/kryo/)：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo) ⭐ 6,545 | 🐛 29 | 🌐 HTML | 📅 2026-08-24
+* [FlatBuffers](http://www.importnew.com/flatbuffers/)：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers) ⭐ 26,411 | 🐛 269 | 🌐 C++ | 📅 2026-08-11
+* [Kryo](http://www.importnew.com/kryo/)：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo) ⭐ 6,546 | 🐛 28 | 🌐 HTML | 📅 2026-08-24
 * [FST](http://www.importnew.com/fst/)：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization) ⭐ 1,595 | 🐛 127 | 🌐 Java | 📅 2023-06-30
 * [MessagePack](http://www.importnew.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java) ⭐ 1,473 | 🐛 69 | 🌐 Java | 📅 2026-08-21
 
@@ -613,11 +613,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *测试内容从对象到接口，涵盖性能测试和基准测试工具。*
 
-* [Mockito](http://www.importnew.com/mockito/)：在自动化单元测试中创建测试对象，为TDD或BDD提供支持。[官网](https://github.com/mockito/mockito) ⭐ 15,446 | 🐛 492 | 🌐 Java | 📅 2026-08-10
-* [REST Assured](http://www.importnew.com/rest-assured/)：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured) ⭐ 7,137 | 🐛 593 | 🌐 Java | 📅 2026-07-22
+* [Mockito](http://www.importnew.com/mockito/)：在自动化单元测试中创建测试对象，为TDD或BDD提供支持。[官网](https://github.com/mockito/mockito) ⭐ 15,448 | 🐛 492 | 🌐 Java | 📅 2026-08-10
+* [REST Assured](http://www.importnew.com/rest-assured/)：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured) ⭐ 7,138 | 🐛 593 | 🌐 Java | 📅 2026-07-22
 * [PowerMock](http://www.importnew.com/powermock/)： 支持模拟静态方法、构造函数、final类和方法、私有方法以及移除静态初始化器的模拟工具。[官网](https://github.com/jayway/powermock) ⭐ 4,170 | 🐛 461 | 🌐 Java | 📅 2024-01-03
-* [Awaitility](http://www.importnew.com/awaitility/)：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility) ⭐ 4,021 | 🐛 86 | 🌐 Java | 📅 2026-04-17
-* [Cucumber](http://www.importnew.com/cucumber-jvm/)：BDD测试框架。[官网](https://github.com/cucumber/cucumber-jvm) ⭐ 2,831 | 🐛 56 | 🌐 Java | 📅 2026-08-25
+* [Awaitility](http://www.importnew.com/awaitility/)：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility) ⭐ 4,020 | 🐛 86 | 🌐 Java | 📅 2026-04-17
+* [Cucumber](http://www.importnew.com/cucumber-jvm/)：BDD测试框架。[官网](https://github.com/cucumber/cucumber-jvm) ⭐ 2,833 | 🐛 56 | 🌐 Java | 📅 2026-08-26
 * [Truth](http://www.importnew.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth) ⭐ 2,787 | 🐛 75 | 🌐 Java | 📅 2026-08-10
 * [Apache JMeter](http://www.importnew.com/jmeter/)：功能性测试和性能评测。[官网](http://jmeter.apache.org/)
 * [Arquillian](http://www.importnew.com/arquillian/)：集成测试和功能行测试平台，集成Java EE容器。[官网](http://arquillian.org/)
@@ -637,9 +637,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *通用工具类函数库。*
 
-* [Guava](http://www.importnew.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava) ⭐ 51,886 | 🐛 747 | 🌐 Java | 📅 2026-08-25
-* [Hutool](https://github.com/looly/hutool) ⭐ 30,270 | 🐛 6 | 🌐 Java | 📅 2026-08-18：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
-* [Gephi](http://www.importnew.com/gephi/)：可视化跨平台网络图形化操作程序。[官网](https://github.com/gephi/gephi/) ⭐ 6,621 | 🐛 520 | 🌐 Java | 📅 2026-08-25
+* [Guava](http://www.importnew.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava) ⭐ 51,891 | 🐛 749 | 🌐 Java | 📅 2026-08-27
+* [Hutool](https://github.com/looly/hutool) ⭐ 30,271 | 🐛 8 | 🌐 Java | 📅 2026-08-18：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
+* [Gephi](http://www.importnew.com/gephi/)：可视化跨平台网络图形化操作程序。[官网](https://github.com/gephi/gephi/) ⭐ 6,622 | 🐛 468 | 🌐 Java | 📅 2026-08-26
 * [Apache Commons](http://www.importnew.com/apache-commons/)：提供各种用途的函数，比如配置、验证、集合、文件上传或XML处理等。[官网](http://commons.apache.org/)
 * [args4j](http://www.importnew.com/args4j/)：命令行参数解析器。[官网](http://args4j.kohsuke.org/)
 * [CRaSH](http://www.importnew.com/crash/)：为运行进行提供CLI。[官网](http://www.crashub.org)
@@ -679,7 +679,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *流程驱动的软件系统构建。*
 
-* Activity：轻量级工作流和业务流程管理框架。[官网](http://www.activiti.org/) [github](https://github.com/Activiti/Activiti) ⭐ 10,541 | 🐛 615 | 🌐 Java | 📅 2026-08-25
+* Activity：轻量级工作流和业务流程管理框架。[官网](http://www.activiti.org/) [github](https://github.com/Activiti/Activiti) ⭐ 10,541 | 🐛 614 | 🌐 Java | 📅 2026-08-26
 * [jBPM](http://www.importnew.com/jbpm/)：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
 
 <h2 id="resources">资源</h2>
@@ -773,4 +773,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
