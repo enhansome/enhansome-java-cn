@@ -27,7 +27,7 @@
             "archived": false,
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-27T00:48:47Z",
+            "last_commit": "2026-08-27T09:19:37Z",
             "owner": "checkstyle",
             "repo": "checkstyle",
             "stars": 9002
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 23206290,
             "language": "Java",
-            "last_commit": "2026-08-26T23:17:58Z",
+            "last_commit": "2026-08-27T01:06:03Z",
             "owner": "google",
             "repo": "error-prone",
             "stars": 7225
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 5349565,
             "language": "Java",
-            "last_commit": "2026-08-26T20:32:23Z",
+            "last_commit": "2026-08-27T07:14:54Z",
             "owner": "prestodb",
             "repo": "presto",
             "stars": 16724
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-27T00:17:47Z",
+            "last_commit": "2026-08-27T11:46:29Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71825
+            "stars": 71824
           }
         },
         {
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 13753636,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:13:01Z",
+            "last_commit": "2026-08-27T03:24:47Z",
             "owner": "jhipster",
             "repo": "generator-jhipster",
-            "stars": 22446
+            "stars": 22448
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2022-04-07T12:04:39Z",
             "owner": "spring-projects",
             "repo": "spring-loaded",
-            "stars": 2717
+            "stars": 2718
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-26T08:28:59Z",
             "owner": "HotswapProjects",
             "repo": "HotswapAgent",
-            "stars": 2611
+            "stars": 2612
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-07-29T08:04:40Z",
             "owner": "alibaba",
             "repo": "fastjson",
-            "stars": 25597
+            "stars": 25598
           }
         },
         {
@@ -507,10 +507,10 @@
             "archived": false,
             "id": 32538871,
             "language": "Java",
-            "last_commit": "2026-08-26T14:40:52Z",
+            "last_commit": "2026-08-27T01:13:23Z",
             "owner": "google",
             "repo": "gson",
-            "stars": 24225
+            "stars": 24227
           }
         },
         {
@@ -582,10 +582,10 @@
             "archived": false,
             "id": 16621659,
             "language": "Java",
-            "last_commit": "2026-08-26T12:35:43Z",
+            "last_commit": "2026-08-27T08:35:42Z",
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8818
+            "stars": 8819
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-25T20:19:29Z",
             "owner": "igniterealtime",
             "repo": "Openfire",
-            "stars": 3059
+            "stars": 3060
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-25T04:52:07Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94625
+            "stars": 94627
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2026-08-04T03:17:39Z",
             "owner": "nutzam",
             "repo": "nutz",
-            "stars": 2542
+            "stars": 2543
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-08-27T00:22:50Z",
             "owner": "flyingsaucerproject",
             "repo": "flyingsaucer",
-            "stars": 2236
+            "stars": 2237
           }
         },
         {
@@ -822,10 +822,10 @@
             "archived": false,
             "id": 7508411,
             "language": "Java",
-            "last_commit": "2026-08-24T05:34:22Z",
+            "last_commit": "2026-08-27T05:03:09Z",
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48204
+            "stars": 48206
           }
         },
         {
@@ -837,10 +837,10 @@
             "archived": false,
             "id": 10981994,
             "language": "Java",
-            "last_commit": "2026-08-25T17:06:20Z",
+            "last_commit": "2026-08-27T05:23:54Z",
             "owner": "OpenFeign",
             "repo": "feign",
-            "stars": 9796
+            "stars": 9797
           }
         },
         {
@@ -885,7 +885,7 @@
             "last_commit": "2026-08-26T12:22:47Z",
             "owner": "dromara",
             "repo": "Sa-Token",
-            "stars": 19005
+            "stars": 19008
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2024-01-03T18:46:42Z",
             "owner": "powermock",
             "repo": "powermock",
-            "stars": 4170
+            "stars": 4169
           }
         },
         {
@@ -1017,10 +1017,10 @@
             "archived": false,
             "id": 1962219,
             "language": "Java",
-            "last_commit": "2026-08-26T22:41:56Z",
+            "last_commit": "2026-08-27T09:55:25Z",
             "owner": "cucumber",
             "repo": "cucumber-jvm",
-            "stars": 2833
+            "stars": 2832
           }
         },
         {
@@ -1035,7 +1035,7 @@
             "last_commit": "2026-08-10T22:24:48Z",
             "owner": "google",
             "repo": "truth",
-            "stars": 2787
+            "stars": 2788
           }
         },
         {
@@ -1047,10 +1047,10 @@
             "archived": false,
             "id": 20300177,
             "language": "Java",
-            "last_commit": "2026-08-27T00:44:00Z",
+            "last_commit": "2026-08-27T01:21:47Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51891
+            "stars": 51892
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2026-08-18T10:45:11Z",
             "owner": "chinabugotech",
             "repo": "hutool",
-            "stars": 30271
+            "stars": 30270
           }
         },
         {
@@ -1077,10 +1077,10 @@
             "archived": false,
             "id": 2624521,
             "language": "Java",
-            "last_commit": "2026-08-26T12:45:05Z",
+            "last_commit": "2026-08-27T11:46:59Z",
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6622
+            "stars": 6623
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2025-12-20T14:01:57Z",
             "owner": "code4craft",
             "repo": "webmagic",
-            "stars": 11678
+            "stars": 11679
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2021-11-04T08:31:46Z",
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4618
+            "stars": 4619
           }
         },
         {
@@ -1122,7 +1122,7 @@
             "archived": false,
             "id": 5793738,
             "language": "Java",
-            "last_commit": "2026-08-26T14:28:00Z",
+            "last_commit": "2026-08-27T10:08:10Z",
             "owner": "Activiti",
             "repo": "Activiti",
             "stars": 10541
@@ -1148,9 +1148,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:52:11.679Z",
-    "original_repository": "jobbole/awesome-java-cn",
-    "original_repository_id": 43482568,
+    "last_updated": "2026-08-27T11:47:15.741Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 43482568,
+      "language": null,
+      "last_commit": "2024-01-31T18:50:34Z",
+      "owner": "jobbole",
+      "repo": "awesome-java-cn",
+      "stars": 15677
+    },
     "original_repository_sha": "0de84c794f291759f903c04100c31acbe6c8c03b",
     "enhanced_repository": "enhansome/enhansome-java-cn",
     "enhanced_repository_description": null,
