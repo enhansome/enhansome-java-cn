@@ -166,7 +166,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *测量代码指标和质量工具。*
 
-* [Checkstyle](http://www.importnew.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle) ⭐ 9,029 | 🐛 767 | 🌐 Java | 📅 2026-08-29
+* [Checkstyle](http://www.importnew.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle) ⭐ 9,031 | 🐛 765 | 🌐 Java | 📅 2026-08-29
 * [Error Prone](http://www.importnew.com/error-prone/)：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone) ⭐ 7,227 | 🐛 523 | 🌐 Java | 📅 2026-08-28
 * [PMD](http://www.importnew.com/pmd/)：对源代码分析查找不良的编程习惯。[官网](https://github.com/pmd/pmd) ⭐ 5,475 | 🐛 588 | 🌐 Java | 📅 2026-08-28
 * FindBugs：通过字节码静态分析查找隐藏bug。[官网](http://findbugs.sourceforge.net/)
@@ -257,7 +257,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *从最基本的层面增强开发流程。*
 
-* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster) ⭐ 22,448 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-29
+* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster) ⭐ 22,448 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-29
 * [Auto](http://www.importnew.com/auto/)：源代码生成器集合。[官网](https://github.com/google/auto) ⭐ 10,551 | 🐛 89 | 🌐 Java | 📅 2026-08-18
 * Spring Loaded：类重载代理。[官网](https://github.com/spring-projects/spring-loaded) ⭐ 2,718 | 🐛 128 | 🌐 Java | 📅 2022-04-07
 * HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent) ⭐ 2,613 | 🐛 107 | 🌐 Java | 📅 2026-08-26
@@ -573,7 +573,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *用于处理安全、认证、授权或会话管理的函数库。*
 
-* [Sa-Token](https://github.com/dromara/sa-token) ⭐ 19,013 | 🐛 105 | 🌐 Java | 📅 2026-08-28：Sa-Token 是一个轻量级 Java 权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0、微服务网关鉴权 等一系列权限相关问题。[官网](https://sa-token.dev33.cn/)
+* [Sa-Token](https://github.com/dromara/sa-token) ⭐ 19,012 | 🐛 105 | 🌐 Java | 📅 2026-08-28：Sa-Token 是一个轻量级 Java 权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0、微服务网关鉴权 等一系列权限相关问题。[官网](https://sa-token.dev33.cn/)
 * [Apache Shiro](http://www.importnew.com/shiro/)：执行认证、授权、加密和会话管理。[官网](http://shiro.apache.org/)
 * [Bouncy Castle](http://www.importnew.com/bouncy-castle/)，涵盖了从基础的帮助函数到PGP/SMIME操作。[官网](https://www.bouncycastle.org/java.html)：多途加密开发库。支持JCA提供者（JCA provider)
 * [Cryptomator](http://www.importnew.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](https://cryptomator.org/)
@@ -638,7 +638,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *通用工具类函数库。*
 
 * [Guava](http://www.importnew.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava) ⭐ 51,896 | 🐛 748 | 🌐 Java | 📅 2026-08-28
-* [Hutool](https://github.com/looly/hutool) ⭐ 30,267 | 🐛 8 | 🌐 Java | 📅 2026-08-18：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
+* [Hutool](https://github.com/looly/hutool) ⭐ 30,266 | 🐛 8 | 🌐 Java | 📅 2026-08-18：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
 * [Gephi](http://www.importnew.com/gephi/)：可视化跨平台网络图形化操作程序。[官网](https://github.com/gephi/gephi/) ⭐ 6,625 | 🐛 442 | 🌐 Java | 📅 2026-08-28
 * [Apache Commons](http://www.importnew.com/apache-commons/)：提供各种用途的函数，比如配置、验证、集合、文件上传或XML处理等。[官网](http://commons.apache.org/)
 * [args4j](http://www.importnew.com/args4j/)：命令行参数解析器。[官网](http://args4j.kohsuke.org/)

@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.",
+            "homepage": "https://github.com/cglib/cglib/wiki",
             "id": 18242149,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-16T10:22:51Z",
+            "open_issues": 96,
             "owner": "cglib",
             "repo": "cglib",
-            "stars": 4893
+            "stars": 4893,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -26,12 +31,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+            "homepage": "https://checkstyle.org",
             "id": 12499251,
             "language": "Java",
-            "last_commit": "2026-08-29T01:52:20Z",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-08-29T03:18:47Z",
+            "open_issues": 765,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9029
+            "stars": 9031,
+            "topics": [
+              "code-quality",
+              "command-line-tool",
+              "hacktoberfest",
+              "java",
+              "static-analysis",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -42,12 +59,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch common Java mistakes as compile-time errors",
+            "homepage": "https://errorprone.info",
             "id": 23206290,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:16:19Z",
+            "open_issues": 523,
             "owner": "google",
             "repo": "error-prone",
-            "stars": 7227
+            "stars": 7227,
+            "topics": [
+              "java",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -58,12 +83,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible multilanguage static code analyzer.",
+            "homepage": "https://pmd.github.io",
             "id": 4992906,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:07:16Z",
+            "open_issues": 588,
             "owner": "pmd",
             "repo": "pmd",
-            "stars": 5475
+            "stars": 5475,
+            "topics": [
+              "apex",
+              "code-analysis",
+              "code-quality",
+              "hacktoberfest",
+              "java",
+              "linter",
+              "plsql",
+              "static-analysis",
+              "static-code-analysis",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -74,12 +115,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "configuration library for JVM languages using HOCON files",
+            "homepage": "https://lightbend.github.io/config/",
             "id": 2923236,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-01T15:19:54Z",
+            "open_issues": 242,
             "owner": "lightbend",
             "repo": "config",
-            "stars": 6313
+            "stars": 6313,
+            "topics": [
+              "configuration-library",
+              "hocon",
+              "supported"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -90,12 +140,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get rid of the boilerplate code in properties based configuration.",
+            "homepage": "https://matteobaccan.github.io/owner/",
             "id": 7292204,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-22T01:34:05Z",
+            "open_issues": 1,
             "owner": "matteobaccan",
             "repo": "owner",
-            "stars": 940
+            "stars": 940,
+            "topics": [
+              "config",
+              "config-management",
+              "configuration",
+              "configuration-management",
+              "java",
+              "properties"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -106,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Constraint Programming solver",
+            "homepage": null,
             "id": 6528689,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-22T10:49:43Z",
+            "open_issues": 10,
             "owner": "radsz",
             "repo": "jacop",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -122,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "uniVocity-parsers is a suite of extremely fast and reliable parsers for Java. It provides a consistent interface for handling different file formats, and a solid framework for the development of new parsers.",
+            "homepage": null,
             "id": 21759652,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-08-17T20:12:20Z",
+            "open_issues": 102,
             "owner": "uniVocity",
             "repo": "univocity-parsers",
-            "stars": 935
+            "stars": 935,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -138,12 +210,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+            "homepage": null,
             "id": 13404515,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-14T21:05:22Z",
+            "open_issues": 544,
             "owner": "brettwooldridge",
             "repo": "HikariCP",
-            "stars": 21193
+            "stars": 21193,
+            "topics": [
+              "connection-pool",
+              "high-performance",
+              "java",
+              "jdbc"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -154,12 +236,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official home of the Presto distributed SQL query engine for big data",
+            "homepage": "http://prestodb.io",
             "id": 5349565,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:53:08Z",
+            "open_issues": 2947,
             "owner": "prestodb",
             "repo": "presto",
-            "stars": 16725
+            "stars": 16725,
+            "topics": [
+              "big-data",
+              "data",
+              "hadoop",
+              "hive",
+              "java",
+              "lakehouse",
+              "presto",
+              "query",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -170,12 +267,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protocol Buffers - Google's data interchange format",
+            "homepage": "http://protobuf.dev",
             "id": 23357588,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T03:08:23Z",
+            "open_issues": 313,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71829
+            "stars": 71829,
+            "topics": [
+              "marshalling",
+              "protobuf",
+              "protobuf-runtime",
+              "protoc",
+              "protocol-buffers",
+              "protocol-compiler",
+              "rpc",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -186,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gRPC and protocol buffers for Android, Kotlin, Swift and Java.",
+            "homepage": "https://square.github.io/wire/",
             "id": 12274147,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:27:48Z",
+            "open_issues": 166,
             "owner": "square",
             "repo": "wire",
-            "stars": 4428
+            "stars": 4428,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -202,12 +318,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Binary Encoding (SBE) - High Performance Message Codec",
+            "homepage": null,
             "id": 12559641,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T10:42:57Z",
+            "open_issues": 39,
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3497
+            "stars": 3497,
+            "topics": [
+              "c-plus-plus",
+              "codec",
+              "encoder-decoder",
+              "golang",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -218,12 +345,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced date, time and interval library for Java with sun/moon-astronomy and calendars like Chinese, Coptic, Ethiopian, French Republican, Hebrew, Hijri, Historic Christian, Indian National, Japanese, Julian, Korean, Minguo, Persian, Thai, Vietnamese",
+            "homepage": null,
             "id": 11652141,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2024-02-11T11:15:08Z",
+            "open_issues": 20,
             "owner": "MenoData",
             "repo": "Time4J",
-            "stars": 471
+            "stars": 471,
+            "topics": [
+              "calendar",
+              "duration",
+              "interval",
+              "java",
+              "moon",
+              "sun",
+              "time4j",
+              "timezone"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -234,12 +375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.",
+            "homepage": "https://github.com/google/guice",
             "id": 20275545,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:49:58Z",
+            "open_issues": 362,
             "owner": "google",
             "repo": "guice",
-            "stars": 12732
+            "stars": 12732,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -250,12 +396,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+            "homepage": "https://www.jhipster.tech",
             "id": 13753636,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T02:40:48Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:14:23Z",
+            "open_issues": 85,
             "owner": "jhipster",
             "repo": "generator-jhipster",
-            "stars": 22448
+            "stars": 22448,
+            "topics": [
+              "angular",
+              "cloud",
+              "docker",
+              "generator",
+              "hacktoberfest",
+              "java",
+              "jhipster",
+              "kubernetes",
+              "react",
+              "spring-boot",
+              "webpack",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -266,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of source code generators for Java.",
+            "homepage": null,
             "id": 10230369,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T14:59:32Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "auto",
-            "stars": 10551
+            "stars": 10551,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -282,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java agent that enables class reloading in a running JVM",
+            "homepage": null,
             "id": 7044667,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-07T12:04:39Z",
+            "open_issues": 128,
             "owner": "spring-projects",
             "repo": "spring-loaded",
-            "stars": 2718
+            "stars": 2718,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -298,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java unlimited redefinition of classes at runtime.",
+            "homepage": null,
             "id": 14561598,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T08:28:59Z",
+            "open_issues": 107,
             "owner": "HotswapProjects",
             "repo": "HotswapAgent",
-            "stars": 2613
+            "stars": 2613,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -314,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "adt4j - Algebraic Data Types for Java",
+            "homepage": null,
             "id": 15796294,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-03-02T08:07:43Z",
+            "open_issues": 12,
             "owner": "sviperll",
             "repo": "adt4j",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -330,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",
+            "homepage": null,
             "id": 6766558,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-12-17T03:21:02Z",
+            "open_issues": 58,
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24474
+            "stars": 24474,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -346,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X",
+            "homepage": null,
             "id": 18188420,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-11T04:01:21Z",
+            "open_issues": 31,
             "owner": "libgdx",
             "repo": "packr",
-            "stars": 2621
+            "stars": 2621,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -362,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere. It adds tuple support, function support, and a lot of additional functionality around sequential Streams. The JDK 8's main efforts (default methods, lambdas, and the Stream API) were focused around maintaining backwards compatibility and implementing a functional API for parallelism.",
+            "homepage": "http://www.jooq.org/products",
             "id": 17339218,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-01T12:21:02Z",
+            "open_issues": 45,
             "owner": "jOOQ",
             "repo": "jOOL",
-            "stars": 2119
+            "stars": 2119,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -378,12 +577,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced, but easy to use, platform for writing functional applications in Java 8.",
+            "homepage": null,
             "id": 29557376,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-21T11:08:31Z",
+            "open_issues": 28,
             "owner": "AOL-archive",
             "repo": "cyclops",
-            "stars": 1327
+            "stars": 1327,
+            "topics": [
+              "asynchronous",
+              "collections",
+              "data-structures",
+              "functional-programming",
+              "java",
+              "java8",
+              "monad",
+              "monad-transformers",
+              "monoid",
+              "reactive",
+              "reactive-streams",
+              "streams",
+              "streams-api"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -394,12 +612,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://jctools.github.io/JCTools",
             "id": 14281190,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T14:28:40Z",
+            "open_issues": 49,
             "owner": "JCTools",
             "repo": "JCTools",
-            "stars": 3871
+            "stars": 3871,
+            "topics": [
+              "awesome",
+              "benchmarks",
+              "concurrency",
+              "data-structures",
+              "java",
+              "lock-free",
+              "queues",
+              "wait-free"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -410,12 +642,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High Performance data structures and utility methods for Java",
+            "homepage": null,
             "id": 26136655,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T14:01:11Z",
+            "open_issues": 4,
             "owner": "aeron-io",
             "repo": "agrona",
-            "stars": 3241
+            "stars": 3241,
+            "topics": [
+              "java",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -426,12 +666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GS Collections has been migrated to the Eclipse Foundation, re-branded as Eclipse Collections.  https://www.eclipse.org/collections/",
+            "homepage": "https://www.eclipse.org/collections/",
             "id": 3041887,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-03-20T19:23:56Z",
+            "open_issues": 25,
             "owner": "goldmansachs",
             "repo": "gs-collections",
-            "stars": 1822
+            "stars": 1822,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -442,12 +687,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Collections till the last breadcrumb of memory and performance",
+            "homepage": "https://koloboke.com/",
             "id": 14376799,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-02-01T10:43:20Z",
+            "open_issues": 40,
             "owner": "leventov",
             "repo": "Koloboke",
-            "stars": 1017
+            "stars": 1017,
+            "topics": [
+              "annotation-processor",
+              "collections",
+              "hashmap",
+              "high-performance",
+              "java",
+              "java-collections",
+              "koloboke",
+              "primitive-specializations"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -458,12 +717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mavenized fork of http://high-scale-lib.sourceforge.net/",
+            "homepage": "http://stephenc.github.com/high-scale-lib",
             "id": 1173520,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-24T22:12:12Z",
+            "open_issues": 4,
             "owner": "stephenc",
             "repo": "high-scale-lib",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -474,12 +738,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+            "homepage": null,
             "id": 2562751,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:35:41Z",
+            "open_issues": 0,
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 34078
+            "stars": 34078,
+            "topics": [
+              "android",
+              "barcode",
+              "barcode-scanner",
+              "datamatrix",
+              "java",
+              "qr-code",
+              "upc",
+              "zxing"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -490,12 +768,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thumbnailator - a thumbnail generation library for Java",
+            "homepage": null,
             "id": 39673913,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-02-17T17:48:42Z",
+            "open_issues": 54,
             "owner": "coobird",
             "repo": "thumbnailator",
-            "stars": 5425
+            "stars": 5425,
+            "topics": [
+              "fluent-interface",
+              "image-processing",
+              "image-resizer",
+              "java",
+              "thumbnails"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -506,12 +795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taken Over By Shad0w For Responsible Disclosure No Malicous Content Should Serve Here",
+            "homepage": null,
             "id": 1036067603,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-11T14:06:00Z",
+            "open_issues": 0,
             "owner": "thebuzzmedia",
             "repo": "imgscalr",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -522,12 +816,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",
+            "homepage": "https://github.com/alibaba/fastjson2/wiki/fastjson_1_upgrade_cn",
             "id": 2700474,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T08:04:40Z",
+            "open_issues": 2112,
             "owner": "alibaba",
             "repo": "fastjson",
-            "stars": 25598
+            "stars": 25598,
+            "topics": [
+              "android",
+              "best-performance",
+              "deserialization",
+              "fastjson",
+              "java",
+              "json",
+              "json-parser",
+              "json-serialization",
+              "json-serializer",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -538,12 +848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
+            "homepage": null,
             "id": 32538871,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T01:13:23Z",
+            "open_issues": 340,
             "owner": "google",
             "repo": "gson",
-            "stars": 24229
+            "stars": 24229,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -554,12 +869,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java binary serialization and cloning: fast, efficient, automatic",
+            "homepage": null,
             "id": 14173176,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T12:00:32Z",
+            "open_issues": 28,
             "owner": "EsotericSoftware",
             "repo": "kryo",
-            "stars": 6545
+            "stars": 6545,
+            "topics": [
+              "cloning",
+              "java",
+              "kryo",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -570,12 +895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screaming fast JSON parsing and serialization library for Android.",
+            "homepage": null,
             "id": 30900836,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-07T11:35:04Z",
+            "open_issues": 83,
             "owner": "bluelinelabs",
             "repo": "LoganSquare",
-            "stars": 3180
+            "stars": 3180,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -586,12 +916,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.",
+            "homepage": "https://metrics.dropwizard.io",
             "id": 537800,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:19:04Z",
+            "open_issues": 5,
             "owner": "dropwizard",
             "repo": "metrics",
-            "stars": 7844
+            "stars": 7844,
+            "topics": [
+              "dropwizard-metrics",
+              "java",
+              "metrics",
+              "metrics-library"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -602,12 +942,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast and easy to use decision tree learner in java",
+            "homepage": "http://quickml.org/",
             "id": 2425118,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2022-05-20T20:46:10Z",
+            "open_issues": 13,
             "owner": "sanity",
             "repo": "quickml",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "decision-tree",
+              "java",
+              "machine-learning",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -618,12 +968,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+            "homepage": "https://aeron.io",
             "id": 16621659,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:56:29Z",
+            "open_issues": 26,
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8824
+            "stars": 8824,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "ipc",
+              "java",
+              "messaging",
+              "multicast-streams"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -634,12 +996,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An XMPP server licensed under the Open Source Apache License.",
+            "homepage": "https://igniterealtime.org/projects/openfire/",
             "id": 18511687,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:47:34Z",
+            "open_issues": 54,
             "owner": "igniterealtime",
             "repo": "Openfire",
-            "stars": 3060
+            "stars": 3060,
+            "topics": [
+              "collaboration",
+              "hacktoberfest",
+              "jabber",
+              "java",
+              "openfire",
+              "xmpp",
+              "xmpp-server"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -650,12 +1025,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JeroMQ is a pure Java implementation of the ZeroMQ messaging library, offering high-performance asynchronous messaging for distributed or concurrent applications.",
+            "homepage": "https://zeromq.org",
             "id": 5257374,
             "language": "Java",
+            "license": "MPL-2.0",
             "last_commit": "2025-11-30T13:59:58Z",
+            "open_issues": 101,
             "owner": "zeromq",
             "repo": "jeromq",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "dealerrouter",
+              "jeromq",
+              "libzmq",
+              "messaging",
+              "networking",
+              "pubsub",
+              "pushpull",
+              "reqrep",
+              "streaming",
+              "zeromq"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -666,12 +1057,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular and portable open source XMPP client library written in Java for Android and Java (SE) VMs",
+            "homepage": "https://igniterealtime.org/projects/smack/",
             "id": 16477702,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T10:28:08Z",
+            "open_issues": 45,
             "owner": "igniterealtime",
             "repo": "Smack",
-            "stars": 2414
+            "stars": 2414,
+            "topics": [
+              "android",
+              "android-library",
+              "jabber",
+              "java",
+              "java-library",
+              "xmpp",
+              "xmpp-client-library"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -682,12 +1086,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform real-time collaboration client optimized for business and organizations.",
+            "homepage": "https://www.igniterealtime.org/projects/spark/",
             "id": 14648981,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T20:13:45Z",
+            "open_issues": 7,
             "owner": "igniterealtime",
             "repo": "Spark",
-            "stars": 603
+            "stars": 603,
+            "topics": [
+              "collaboration",
+              "cross-platform",
+              "jabber",
+              "java",
+              "openfire",
+              "spark",
+              "xmpp",
+              "xmpp-client"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -698,12 +1116,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design patterns implemented in Java",
+            "homepage": "https://java-design-patterns.com",
             "id": 22790488,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:52:07Z",
+            "open_issues": 135,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94632
+            "stars": 94632,
+            "topics": [
+              "awesome-list",
+              "design-patterns",
+              "hacktoberfest",
+              "java",
+              "principles",
+              "snippets",
+              "snippets-collection",
+              "snippets-library"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -714,12 +1146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An in-memory file system for Java",
+            "homepage": null,
             "id": 13745124,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T15:51:17Z",
+            "open_issues": 41,
             "owner": "google",
             "repo": "jimfs",
-            "stars": 2559
+            "stars": 2559,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -730,12 +1167,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaMelody : monitoring of JavaEE applications",
+            "homepage": null,
             "id": 37816257,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T13:25:00Z",
+            "open_issues": 39,
             "owner": "javamelody",
             "repo": "javamelody",
-            "stars": 3039
+            "stars": 3039,
+            "topics": [
+              "apm",
+              "metrics",
+              "monitoring",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -746,12 +1193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Native Access",
+            "homepage": null,
             "id": 1680733,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-02T10:59:01Z",
+            "open_issues": 113,
             "owner": "java-native-access",
             "repo": "jna",
-            "stars": 8929
+            "stars": 8929,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -762,12 +1214,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous, non-blocking HTTP & WebSocket client for the JVM",
+            "homepage": null,
             "id": 1450115,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:36:16Z",
+            "open_issues": 97,
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
-            "stars": 6394
+            "stars": 6394,
+            "topics": [
+              "ahc",
+              "async",
+              "asynchttpclient",
+              "http-client",
+              "java",
+              "netty"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -778,12 +1242,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java implementation for Baidu RPC, multi-protocol & high performance RPC.",
+            "homepage": null,
             "id": 162548942,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-20T16:23:37Z",
+            "open_issues": 17,
             "owner": "baidu",
             "repo": "starlight",
-            "stars": 976
+            "stars": 976,
+            "topics": [
+              "brpc",
+              "high-performance",
+              "microservice",
+              "netty",
+              "protobuf",
+              "rpc",
+              "spring-boot",
+              "spring-cloud"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -794,12 +1272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JAVA WEB + ORM Framework",
+            "homepage": "https://jfinal.com",
             "id": 4134560,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T10:18:26Z",
+            "open_issues": 13,
             "owner": "jfinal",
             "repo": "jfinal",
-            "stars": 3269
+            "stars": 3269,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -810,12 +1293,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer",
+            "homepage": "https://nutzam.com",
             "id": 1873881,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T03:17:39Z",
+            "open_issues": 66,
             "owner": "nutzam",
             "repo": "nutz",
-            "stars": 2543
+            "stars": 2543,
+            "topics": [
+              "aop",
+              "ioc",
+              "java",
+              "javaee",
+              "micro-framework",
+              "nutz",
+              "orm"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -826,12 +1322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XML/XHTML and CSS 2.1 renderer in pure Java",
+            "homepage": null,
             "id": 618681,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T21:08:32Z",
+            "open_issues": 35,
             "owner": "flyingsaucerproject",
             "repo": "flyingsaucer",
-            "stars": 2236
+            "stars": 2236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -842,12 +1343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jHiccup is a non-intrusive instrumentation tool that logs and records\nplatform \"hiccups\" - including the JVM stalls that often happen when\nJava applications are executed and/or any OS or hardware platform noise\nthat may cause the running application to not be continuously runnable.",
+            "homepage": null,
             "id": 13547035,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-05T13:35:55Z",
+            "open_issues": 15,
             "owner": "giltene",
             "repo": "jHiccup",
-            "stars": 704
+            "stars": 704,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -858,12 +1364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for latency measurement and reporting",
+            "homepage": "http://LatencyUtils.github.io/LatencyUtils/",
             "id": 13363907,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-05T10:53:20Z",
+            "open_issues": 7,
             "owner": "LatencyUtils",
             "repo": "LatencyUtils",
-            "stars": 465
+            "stars": 465,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -874,12 +1385,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+            "homepage": "https://dsc.gg/rxjava",
             "id": 7508411,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T05:03:09Z",
+            "open_issues": 11,
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48208
+            "stars": 48208,
+            "topics": [
+              "flow",
+              "java",
+              "reactive-streams",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -890,12 +1411,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feign makes writing java http clients easier",
+            "homepage": null,
             "id": 10981994,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T05:23:54Z",
+            "open_issues": 215,
             "owner": "OpenFeign",
             "repo": "feign",
-            "stars": 9799
+            "stars": 9799,
+            "topics": [
+              "http-client",
+              "interface",
+              "java",
+              "jax-rs",
+              "okhttp3",
+              "slf4j"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -906,12 +1439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist Java framework for rapidly creating scalable, containerless, RESTful microservices. Ship a production-quality, headless, RESTful API in the shortest time possible. Uses Netty for HTTP, Jackson for JSON, Metrics for metrics, properties files for configuration. Sub-projects and plugins enable, NoSQL, Swagger, Auth0, HAL integration, etc.",
+            "homepage": "https://groups.google.com/d/forum/restexpress",
             "id": 1227017,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T12:42:25Z",
+            "open_issues": 28,
             "owner": "RestExpress",
             "repo": "RestExpress",
-            "stars": 939
+            "stars": 939,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -922,12 +1460,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master repository for the JGraphT project",
+            "homepage": "http://www.jgrapht.org",
             "id": 3969325,
             "language": "Java",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-17T09:04:22Z",
+            "open_issues": 128,
             "owner": "jgrapht",
             "repo": "jgrapht",
-            "stars": 2781
+            "stars": 2781,
+            "topics": [
+              "data-structures",
+              "datastructures",
+              "directed-graphs",
+              "graph-algorithms",
+              "graph-api",
+              "graph-datastructures",
+              "graph-theory",
+              "graphs",
+              "java",
+              "java-data-structure",
+              "java-library",
+              "jgrapht",
+              "undirected-graphs"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -938,12 +1495,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名",
+            "homepage": "https://sa-token.com",
             "id": 237940592,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:48:41Z",
+            "open_issues": 105,
             "owner": "dromara",
             "repo": "Sa-Token",
-            "stars": 19013
+            "stars": 19012,
+            "topics": [
+              "aouth2",
+              "authorization",
+              "java",
+              "springcloud",
+              "sso",
+              "token"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -954,12 +1523,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlatBuffers: Memory Efficient Serialization Library",
+            "homepage": "https://flatbuffers.dev/",
             "id": 19953044,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:49:45Z",
+            "open_issues": 271,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26414
+            "stars": 26414,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "c-sharp",
+              "cross-platform",
+              "flatbuffers",
+              "go",
+              "grpc",
+              "java",
+              "javascript",
+              "json-parser",
+              "marshalling",
+              "mmap",
+              "protobuf",
+              "python",
+              "rpc",
+              "rust",
+              "serialization",
+              "serialization-library",
+              "typescript",
+              "zero-copy"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -970,12 +1565,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java binary serialization and cloning: fast, efficient, automatic",
+            "homepage": null,
             "id": 14173176,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T12:00:32Z",
+            "open_issues": 28,
             "owner": "EsotericSoftware",
             "repo": "kryo",
-            "stars": 6545
+            "stars": 6545,
+            "topics": [
+              "cloning",
+              "java",
+              "kryo",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -986,12 +1591,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FST: fast java serialization drop in-replacement ",
+            "homepage": null,
             "id": 14965048,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-30T08:15:18Z",
+            "open_issues": 127,
             "owner": "RuedigerMoeller",
             "repo": "fast-serialization",
-            "stars": 1595
+            "stars": 1595,
+            "topics": [
+              "faster",
+              "java",
+              "json",
+              "offheap",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1002,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MessagePack serializer implementation for Java / msgpack.org[Java]",
+            "homepage": "http://msgpack.org/",
             "id": 1971346,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T17:58:30Z",
+            "open_issues": 70,
             "owner": "msgpack",
             "repo": "msgpack-java",
-            "stars": 1474
+            "stars": 1474,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1018,12 +1639,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Most popular Mocking framework for unit tests written in Java",
+            "homepage": "http://mockito.org",
             "id": 6207167,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:02:55Z",
+            "open_issues": 494,
             "owner": "mockito",
             "repo": "mockito",
-            "stars": 15447
+            "stars": 15447,
+            "topics": [
+              "java",
+              "java-library",
+              "mock",
+              "mock-library",
+              "mocking",
+              "mocking-framework",
+              "mockito",
+              "mocks",
+              "test-automation",
+              "test-driven-development",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1034,12 +1673,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java DSL for easy testing of REST services",
+            "homepage": null,
             "id": 1011539,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T08:35:07Z",
+            "open_issues": 593,
             "owner": "rest-assured",
             "repo": "rest-assured",
-            "stars": 7139
+            "stars": 7139,
+            "topics": [
+              "groovy",
+              "http",
+              "java",
+              "json",
+              "kotlin",
+              "rest",
+              "rest-api",
+              "test",
+              "test-automation",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1050,12 +1705,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.",
+            "homepage": null,
             "id": 20249391,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-03T18:46:42Z",
+            "open_issues": 461,
             "owner": "powermock",
             "repo": "powermock",
-            "stars": 4169
+            "stars": 4169,
+            "topics": [
+              "java",
+              "mocking",
+              "mocking-framework",
+              "testability",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1066,12 +1732,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awaitility is a small Java DSL for synchronizing asynchronous operations",
+            "homepage": null,
             "id": 483924,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-17T11:01:24Z",
+            "open_issues": 86,
             "owner": "awaitility",
             "repo": "awaitility",
-            "stars": 4020
+            "stars": 4020,
+            "topics": [
+              "asynchronous",
+              "awaitility",
+              "java",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1082,12 +1758,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cucumber for the JVM",
+            "homepage": "https://cucumber.io",
             "id": 1962219,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:49:07Z",
+            "open_issues": 56,
             "owner": "cucumber",
             "repo": "cucumber-jvm",
-            "stars": 2833
+            "stars": 2833,
+            "topics": [
+              "cucumber-jvm",
+              "java",
+              "polyglot-release",
+              "tidelift"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1098,12 +1784,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent assertions for Java and Android",
+            "homepage": "https://truth.dev/",
             "id": 1936771,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T22:24:48Z",
+            "open_issues": 75,
             "owner": "google",
             "repo": "truth",
-            "stars": 2788
+            "stars": 2788,
+            "topics": [
+              "assertion-framework",
+              "java",
+              "junit",
+              "test-framework",
+              "testing-library",
+              "truth",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1114,12 +1813,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google core libraries for Java",
+            "homepage": "https://guava.dev/",
             "id": 20300177,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:41:24Z",
+            "open_issues": 748,
             "owner": "google",
             "repo": "guava",
-            "stars": 51896
+            "stars": 51896,
+            "topics": [
+              "guava",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1130,12 +1837,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍬A set of tools that keep Java sweet.",
+            "homepage": "https://hutool.cn",
             "id": 18723836,
             "language": "Java",
+            "license": "MulanPSL-2.0",
             "last_commit": "2026-08-18T10:45:11Z",
+            "open_issues": 8,
             "owner": "chinabugotech",
             "repo": "hutool",
-            "stars": 30267
+            "stars": 30266,
+            "topics": [
+              "http",
+              "hutool",
+              "java",
+              "json",
+              "orm",
+              "tool",
+              "util"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1146,12 +1866,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gephi - The Open Graph Viz Platform",
+            "homepage": "http://gephi.org",
             "id": 2624521,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T07:55:59Z",
+            "open_issues": 442,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "graph",
+              "graph-analytics",
+              "interactive",
+              "java",
+              "opengl",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1162,12 +1894,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable web crawler framework for Java.",
+            "homepage": "http://webmagic.io/",
             "id": 9623064,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-20T14:01:57Z",
+            "open_issues": 367,
             "owner": "code4craft",
             "repo": "webmagic",
-            "stars": 11680
+            "stars": 11680,
+            "topics": [
+              "crawler",
+              "framework",
+              "java",
+              "scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1178,12 +1920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Web Crawler for Java",
+            "homepage": null,
             "id": 3081071,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-04T08:31:46Z",
+            "open_issues": 188,
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4619
+            "stars": 4619,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1194,12 +1941,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",
+            "homepage": "https://www.activiti.org",
             "id": 5793738,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:48:36Z",
+            "open_issues": 608,
             "owner": "Activiti",
             "repo": "Activiti",
-            "stars": 10539
+            "stars": 10539,
+            "topics": [
+              "activiti",
+              "bpm",
+              "bpmn",
+              "business-process",
+              "cloud",
+              "hxps",
+              "java",
+              "microservices",
+              "product-activiti",
+              "spring"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         },
@@ -1210,12 +1973,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern Java - A Guide to Java 8",
+            "homepage": "http://winterbe.com",
             "id": 17804584,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-08-11T18:44:34Z",
+            "open_issues": 19,
             "owner": "winterbe",
             "repo": "java8-tutorial",
-            "stars": 16724
+            "stars": 16724,
+            "topics": [
+              "guide",
+              "java",
+              "java-8",
+              "lambda-expressions",
+              "learning",
+              "parallel-streams",
+              "stream",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
         }
@@ -1224,15 +2001,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:12:03.954Z",
+    "last_updated": "2026-08-29T04:12:31.672Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。",
+      "homepage": null,
       "id": 43482568,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-31T18:50:34Z",
+      "open_issues": 8,
       "owner": "jobbole",
       "repo": "awesome-java-cn",
-      "stars": 15677
+      "stars": 15677,
+      "topics": []
     },
     "original_repository_sha": "0de84c794f291759f903c04100c31acbe6c8c03b",
     "enhanced_repository": "enhansome/enhansome-java-cn",
