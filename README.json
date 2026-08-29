@@ -36,11 +36,11 @@
             "id": 12499251,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-29T03:18:47Z",
-            "open_issues": 765,
+            "last_commit": "2026-08-29T23:20:08Z",
+            "open_issues": 762,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9031,
+            "stars": 9083,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -68,7 +68,7 @@
             "open_issues": 523,
             "owner": "google",
             "repo": "error-prone",
-            "stars": 7227,
+            "stars": 7228,
             "topics": [
               "java",
               "static-analysis"
@@ -88,7 +88,7 @@
             "id": 4992906,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T21:07:16Z",
+            "last_commit": "2026-08-29T19:41:24Z",
             "open_issues": 588,
             "owner": "pmd",
             "repo": "pmd",
@@ -145,7 +145,7 @@
             "id": 7292204,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-22T01:34:05Z",
+            "last_commit": "2026-08-29T17:31:28Z",
             "open_issues": 1,
             "owner": "matteobaccan",
             "repo": "owner",
@@ -177,7 +177,7 @@
             "open_issues": 10,
             "owner": "radsz",
             "repo": "jacop",
-            "stars": 234,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
@@ -242,7 +242,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:53:08Z",
-            "open_issues": 2947,
+            "open_issues": 2948,
             "owner": "prestodb",
             "repo": "presto",
             "stars": 16725,
@@ -272,11 +272,11 @@
             "id": 23357588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:08:23Z",
-            "open_issues": 313,
+            "last_commit": "2026-08-29T21:37:13Z",
+            "open_issues": 325,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71829,
+            "stars": 71832,
             "topics": [
               "marshalling",
               "protobuf",
@@ -384,7 +384,7 @@
             "open_issues": 362,
             "owner": "google",
             "repo": "guice",
-            "stars": 12732,
+            "stars": 12731,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
@@ -401,8 +401,8 @@
             "id": 13753636,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:14:23Z",
-            "open_issues": 85,
+            "last_commit": "2026-08-29T19:30:58Z",
+            "open_issues": 89,
             "owner": "jhipster",
             "repo": "generator-jhipster",
             "stars": 22448,
@@ -651,7 +651,7 @@
             "open_issues": 4,
             "owner": "aeron-io",
             "repo": "agrona",
-            "stars": 3241,
+            "stars": 3242,
             "topics": [
               "java",
               "performance"
@@ -777,7 +777,7 @@
             "open_issues": 54,
             "owner": "coobird",
             "repo": "thumbnailator",
-            "stars": 5425,
+            "stars": 5426,
             "topics": [
               "fluent-interface",
               "image-processing",
@@ -825,7 +825,7 @@
             "open_issues": 2112,
             "owner": "alibaba",
             "repo": "fastjson",
-            "stars": 25598,
+            "stars": 25599,
             "topics": [
               "android",
               "best-performance",
@@ -857,7 +857,7 @@
             "open_issues": 340,
             "owner": "google",
             "repo": "gson",
-            "stars": 24229,
+            "stars": 24228,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
@@ -925,7 +925,7 @@
             "open_issues": 5,
             "owner": "dropwizard",
             "repo": "metrics",
-            "stars": 7844,
+            "stars": 7843,
             "topics": [
               "dropwizard-metrics",
               "java",
@@ -1001,7 +1001,7 @@
             "id": 18511687,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:47:34Z",
+            "last_commit": "2026-08-29T13:00:46Z",
             "open_issues": 54,
             "owner": "igniterealtime",
             "repo": "Openfire",
@@ -1095,7 +1095,7 @@
             "open_issues": 7,
             "owner": "igniterealtime",
             "repo": "Spark",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "collaboration",
               "cross-platform",
@@ -1125,7 +1125,7 @@
             "open_issues": 135,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94632,
+            "stars": 94634,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -1223,7 +1223,7 @@
             "open_issues": 97,
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
-            "stars": 6394,
+            "stars": 6395,
             "topics": [
               "ahc",
               "async",
@@ -1498,13 +1498,13 @@
             "description": "✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名",
             "homepage": "https://sa-token.com",
             "id": 237940592,
-            "language": "Java",
+            "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T09:48:41Z",
+            "last_commit": "2026-08-29T16:40:32Z",
             "open_issues": 105,
             "owner": "dromara",
             "repo": "Sa-Token",
-            "stars": 19012,
+            "stars": 19013,
             "topics": [
               "aouth2",
               "authorization",
@@ -1532,7 +1532,7 @@
             "open_issues": 271,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26414,
+            "stars": 26418,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1623,7 +1623,7 @@
             "id": 1971346,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T17:58:30Z",
+            "last_commit": "2026-08-29T19:33:38Z",
             "open_issues": 70,
             "owner": "msgpack",
             "repo": "msgpack-java",
@@ -1682,7 +1682,7 @@
             "open_issues": 593,
             "owner": "rest-assured",
             "repo": "rest-assured",
-            "stars": 7139,
+            "stars": 7140,
             "topics": [
               "groovy",
               "http",
@@ -1741,7 +1741,7 @@
             "open_issues": 86,
             "owner": "awaitility",
             "repo": "awaitility",
-            "stars": 4020,
+            "stars": 4021,
             "topics": [
               "asynchronous",
               "awaitility",
@@ -1822,7 +1822,7 @@
             "open_issues": 748,
             "owner": "google",
             "repo": "guava",
-            "stars": 51896,
+            "stars": 51895,
             "topics": [
               "guava",
               "java"
@@ -1843,7 +1843,7 @@
             "language": "Java",
             "license": "MulanPSL-2.0",
             "last_commit": "2026-08-18T10:45:11Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "chinabugotech",
             "repo": "hutool",
             "stars": 30266,
@@ -1871,11 +1871,11 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T07:55:59Z",
-            "open_issues": 442,
+            "last_commit": "2026-08-29T05:35:31Z",
+            "open_issues": 448,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6625,
+            "stars": 6627,
             "topics": [
               "graph",
               "graph-analytics",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:31.672Z",
+    "last_updated": "2026-08-29T23:25:07.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。",
@@ -2013,7 +2013,7 @@
       "open_issues": 8,
       "owner": "jobbole",
       "repo": "awesome-java-cn",
-      "stars": 15677,
+      "stars": 15678,
       "topics": []
     },
     "original_repository_sha": "0de84c794f291759f903c04100c31acbe6c8c03b",
