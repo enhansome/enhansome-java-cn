@@ -36,11 +36,11 @@
             "id": 12499251,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-29T23:20:08Z",
-            "open_issues": 762,
+            "last_commit": "2026-08-30T21:16:13Z",
+            "open_issues": 748,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9083,
+            "stars": 9189,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -64,8 +64,8 @@
             "id": 23206290,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:16:19Z",
-            "open_issues": 523,
+            "last_commit": "2026-08-30T13:23:11Z",
+            "open_issues": 524,
             "owner": "google",
             "repo": "error-prone",
             "stars": 7228,
@@ -88,11 +88,11 @@
             "id": 4992906,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T19:41:24Z",
+            "last_commit": "2026-08-30T17:44:24Z",
             "open_issues": 588,
             "owner": "pmd",
             "repo": "pmd",
-            "stars": 5475,
+            "stars": 5476,
             "topics": [
               "apex",
               "code-analysis",
@@ -242,10 +242,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:53:08Z",
-            "open_issues": 2948,
+            "open_issues": 2950,
             "owner": "prestodb",
             "repo": "presto",
-            "stars": 16725,
+            "stars": 16728,
             "topics": [
               "big-data",
               "data",
@@ -272,11 +272,11 @@
             "id": 23357588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T21:37:13Z",
-            "open_issues": 325,
+            "last_commit": "2026-08-30T22:55:14Z",
+            "open_issues": 319,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71832,
+            "stars": 71859,
             "topics": [
               "marshalling",
               "protobuf",
@@ -327,7 +327,7 @@
             "open_issues": 39,
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3497,
+            "stars": 3498,
             "topics": [
               "c-plus-plus",
               "codec",
@@ -381,7 +381,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:49:58Z",
-            "open_issues": 362,
+            "open_issues": 363,
             "owner": "google",
             "repo": "guice",
             "stars": 12731,
@@ -401,11 +401,11 @@
             "id": 13753636,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:58Z",
-            "open_issues": 89,
+            "last_commit": "2026-08-30T23:09:02Z",
+            "open_issues": 85,
             "owner": "jhipster",
             "repo": "generator-jhipster",
-            "stars": 22448,
+            "stars": 22447,
             "topics": [
               "angular",
               "cloud",
@@ -523,7 +523,7 @@
             "open_issues": 58,
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24474,
+            "stars": 24473,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
@@ -651,7 +651,7 @@
             "open_issues": 4,
             "owner": "aeron-io",
             "repo": "agrona",
-            "stars": 3242,
+            "stars": 3243,
             "topics": [
               "java",
               "performance"
@@ -878,7 +878,7 @@
             "open_issues": 28,
             "owner": "EsotericSoftware",
             "repo": "kryo",
-            "stars": 6545,
+            "stars": 6544,
             "topics": [
               "cloning",
               "java",
@@ -925,7 +925,7 @@
             "open_issues": 5,
             "owner": "dropwizard",
             "repo": "metrics",
-            "stars": 7843,
+            "stars": 7842,
             "topics": [
               "dropwizard-metrics",
               "java",
@@ -977,7 +977,7 @@
             "open_issues": 26,
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8824,
+            "stars": 8826,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1034,7 +1034,7 @@
             "open_issues": 101,
             "owner": "zeromq",
             "repo": "jeromq",
-            "stars": 2450,
+            "stars": 2451,
             "topics": [
               "dealerrouter",
               "jeromq",
@@ -1121,11 +1121,11 @@
             "id": 22790488,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T04:52:07Z",
-            "open_issues": 135,
+            "last_commit": "2026-08-30T11:53:09Z",
+            "open_issues": 117,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94634,
+            "stars": 94636,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -1151,11 +1151,11 @@
             "id": 13745124,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-18T15:51:17Z",
+            "last_commit": "2026-08-30T01:34:57Z",
             "open_issues": 41,
             "owner": "google",
             "repo": "jimfs",
-            "stars": 2559,
+            "stars": 2558,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
@@ -1176,7 +1176,7 @@
             "open_issues": 39,
             "owner": "javamelody",
             "repo": "javamelody",
-            "stars": 3039,
+            "stars": 3038,
             "topics": [
               "apm",
               "metrics",
@@ -1223,7 +1223,7 @@
             "open_issues": 97,
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
-            "stars": 6395,
+            "stars": 6394,
             "topics": [
               "ahc",
               "async",
@@ -1251,7 +1251,7 @@
             "open_issues": 17,
             "owner": "baidu",
             "repo": "starlight",
-            "stars": 976,
+            "stars": 977,
             "topics": [
               "brpc",
               "high-performance",
@@ -1352,7 +1352,7 @@
             "open_issues": 15,
             "owner": "giltene",
             "repo": "jHiccup",
-            "stars": 704,
+            "stars": 705,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 11,
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48208,
+            "stars": 48209,
             "topics": [
               "flow",
               "java",
@@ -1420,7 +1420,7 @@
             "open_issues": 215,
             "owner": "OpenFeign",
             "repo": "feign",
-            "stars": 9799,
+            "stars": 9798,
             "topics": [
               "http-client",
               "interface",
@@ -1500,11 +1500,11 @@
             "id": 237940592,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T16:40:32Z",
+            "last_commit": "2026-08-30T12:53:39Z",
             "open_issues": 105,
             "owner": "dromara",
             "repo": "Sa-Token",
-            "stars": 19013,
+            "stars": 19015,
             "topics": [
               "aouth2",
               "authorization",
@@ -1529,10 +1529,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:49:45Z",
-            "open_issues": 271,
+            "open_issues": 272,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26418,
+            "stars": 26420,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1574,7 +1574,7 @@
             "open_issues": 28,
             "owner": "EsotericSoftware",
             "repo": "kryo",
-            "stars": 6545,
+            "stars": 6544,
             "topics": [
               "cloning",
               "java",
@@ -1741,7 +1741,7 @@
             "open_issues": 86,
             "owner": "awaitility",
             "repo": "awaitility",
-            "stars": 4021,
+            "stars": 4020,
             "topics": [
               "asynchronous",
               "awaitility",
@@ -1767,7 +1767,7 @@
             "open_issues": 56,
             "owner": "cucumber",
             "repo": "cucumber-jvm",
-            "stars": 2833,
+            "stars": 2834,
             "topics": [
               "cucumber-jvm",
               "java",
@@ -1818,11 +1818,11 @@
             "id": 20300177,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:41:24Z",
-            "open_issues": 748,
+            "last_commit": "2026-08-30T17:52:35Z",
+            "open_issues": 751,
             "owner": "google",
             "repo": "guava",
-            "stars": 51895,
+            "stars": 51893,
             "topics": [
               "guava",
               "java"
@@ -1846,7 +1846,7 @@
             "open_issues": 7,
             "owner": "chinabugotech",
             "repo": "hutool",
-            "stars": 30266,
+            "stars": 30265,
             "topics": [
               "http",
               "hutool",
@@ -1871,8 +1871,8 @@
             "id": 2624521,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T05:35:31Z",
-            "open_issues": 448,
+            "last_commit": "2026-08-30T19:36:39Z",
+            "open_issues": 445,
             "owner": "gephi",
             "repo": "gephi",
             "stars": 6627,
@@ -1950,7 +1950,7 @@
             "open_issues": 608,
             "owner": "Activiti",
             "repo": "Activiti",
-            "stars": 10539,
+            "stars": 10538,
             "topics": [
               "activiti",
               "bpm",
@@ -1982,7 +1982,7 @@
             "open_issues": 19,
             "owner": "winterbe",
             "repo": "java8-tutorial",
-            "stars": 16724,
+            "stars": 16723,
             "topics": [
               "guide",
               "java",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:25:07.321Z",
+    "last_updated": "2026-08-30T23:35:45.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。",
