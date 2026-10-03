@@ -40,7 +40,7 @@
             "open_issues": 761,
             "owner": "checkstyle",
             "repo": "checkstyle",
-            "stars": 9586,
+            "stars": 9587,
             "topics": [
               "code-quality",
               "command-line-tool",
@@ -88,8 +88,8 @@
             "id": 4992906,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:23:28Z",
-            "open_issues": 596,
+            "last_commit": "2026-10-03T00:47:41Z",
+            "open_issues": 597,
             "owner": "pmd",
             "repo": "pmd",
             "stars": 5494,
@@ -216,7 +216,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-06-14T21:05:22Z",
-            "open_issues": 544,
+            "open_issues": 543,
             "owner": "brettwooldridge",
             "repo": "HikariCP",
             "stars": 21231,
@@ -272,11 +272,11 @@
             "id": 23357588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:30:48Z",
-            "open_issues": 472,
+            "last_commit": "2026-10-03T04:50:24Z",
+            "open_issues": 470,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 72089,
+            "stars": 72090,
             "topics": [
               "marshalling",
               "protobuf",
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。官网",
-          "description": null,
+          "description": "jhipster/generator-jhipster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
             "id": 13753636,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T23:10:01Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-03T02:58:29Z",
+            "open_issues": 67,
             "owner": "jhipster",
             "repo": "generator-jhipster",
             "stars": 22459,
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "Spring Loaded：类重载代理。官网",
-          "description": null,
+          "description": "spring-projects/spring-loaded",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
         {
           "node_type": "item",
           "title": "HotswapAgent：支持无限次重定义运行时类与资源。官网",
-          "description": null,
+          "description": "HotswapProjects/HotswapAgent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -531,7 +531,7 @@
         {
           "node_type": "item",
           "title": "packr：将JAR、资源和JVM打包成Windows、Linux和Mac OS X本地发布文件。官网",
-          "description": null,
+          "description": "libgdx/packr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -552,7 +552,7 @@
         {
           "node_type": "item",
           "title": "jOOλ：旨在填补Java 8 lambda差距的扩展，提供了众多缺失的类型和一组丰富的顺序流API。官网",
-          "description": null,
+          "description": "jOOQ/jOOL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -573,7 +573,7 @@
         {
           "node_type": "item",
           "title": "Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。官网",
-          "description": null,
+          "description": "AOL-archive/cyclops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -638,7 +638,7 @@
         {
           "node_type": "item",
           "title": "Agrona：高性能应用中常见的数据结构和工具方法。官网",
-          "description": null,
+          "description": "aeron-io/agrona",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,7 +662,7 @@
         {
           "node_type": "item",
           "title": "GS Collections：受Smalltalk启发的集合框架。官网",
-          "description": null,
+          "description": "goldmansachs/gs-collections",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,7 +713,7 @@
         {
           "node_type": "item",
           "title": "High-scale-lib:Cliff Click 个人开发的高性能并发库官网",
-          "description": null,
+          "description": "stephenc/high-scale-lib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -774,10 +774,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-02-17T17:48:42Z",
-            "open_issues": 56,
+            "open_issues": 55,
             "owner": "coobird",
             "repo": "thumbnailator",
-            "stars": 5428,
+            "stars": 5429,
             "topics": [
               "fluent-interface",
               "image-processing",
@@ -865,7 +865,7 @@
         {
           "node_type": "item",
           "title": "Kyro：快速、高效、自动化的Java对象序列化和克隆库。官网",
-          "description": null,
+          "description": "EsotericSoftware/kryo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -904,7 +904,7 @@
             "open_issues": 83,
             "owner": "bluelinelabs",
             "repo": "LoganSquare",
-            "stars": 3176,
+            "stars": 3175,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:43.635Z"
@@ -992,7 +992,7 @@
         {
           "node_type": "item",
           "title": "Openfire：是开源的、基于XMPP、采用Java编程语言开发的实时协作服务器。 Openfire安装和使用都非常简单，并可利用Web界面进行管理。 官网",
-          "description": "GitHub",
+          "description": "igniterealtime/Openfire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1082,7 +1082,7 @@
         {
           "node_type": "item",
           "title": "Spark：是一个开源，跨平台IM客户端。它的特性支持集组聊天，电话集成和强大安全性能。如果企业内部部署IM使用Openfire+Spark是最佳的组合。 官网",
-          "description": "GitHub",
+          "description": "igniterealtime/Spark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1112,7 +1112,7 @@
         {
           "node_type": "item",
           "title": "Design Patterns：实现并解释了最常见的设计模式。官网",
-          "description": null,
+          "description": "iluwatar/java-design-patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +1125,7 @@
             "open_issues": 133,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94757,
+            "stars": 94756,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -1142,7 +1142,7 @@
         {
           "node_type": "item",
           "title": "Jimfs：内存文件系统。官网",
-          "description": null,
+          "description": "google/jimfs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1238,7 +1238,7 @@
         {
           "node_type": "item",
           "title": "brpc-java: java版baidu rpc框架，高性能、多协议、易扩展、低耦合。官网",
-          "description": null,
+          "description": "baidu/starlight",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1504,7 +1504,7 @@
             "open_issues": 115,
             "owner": "dromara",
             "repo": "Sa-Token",
-            "stars": 19064,
+            "stars": 19065,
             "topics": [
               "aouth2",
               "authorization",
@@ -1532,7 +1532,7 @@
             "open_issues": 322,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26541,
+            "stars": 26542,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1711,7 +1711,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2024-01-03T18:46:42Z",
-            "open_issues": 461,
+            "open_issues": 462,
             "owner": "powermock",
             "repo": "powermock",
             "stars": 4169,
@@ -1818,11 +1818,11 @@
             "id": 20300177,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:59:43Z",
+            "last_commit": "2026-10-03T03:17:40Z",
             "open_issues": 748,
             "owner": "google",
             "repo": "guava",
-            "stars": 51912,
+            "stars": 51913,
             "topics": [
               "guava",
               "java"
@@ -1937,7 +1937,7 @@
         {
           "node_type": "item",
           "title": "Activity：轻量级工作流和业务流程管理框架。官网",
-          "description": "github",
+          "description": "Activiti/Activiti",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1969,7 +1969,7 @@
         {
           "node_type": "item",
           "title": "java8 新特性教程例子。github",
-          "description": null,
+          "description": "winterbe/java8-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:33:00.060Z",
+    "last_updated": "2026-10-03T04:56:11.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。",
